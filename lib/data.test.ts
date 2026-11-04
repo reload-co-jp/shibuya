@@ -1,0 +1,131 @@
+import { describe, expect, it } from "vitest"
+import {
+  contents,
+  getArchiveMonths,
+  ARCHIVE_MIN_EVENTS,
+  getContentsByCategory,
+  getEventsInPeriod,
+  getUpcomingDaysEvents,
+  getMonthEvents,
+  getPlaceContents,
+  getRelatedContents,
+  getLatestContents,
+  getOngoingContentsByCategory,
+  getPlace,
+  getNextFestivalEvent,
+  getThemeEvents,
+  places,
+} from "./data"
+
+describe("data", () => {
+  it("places / contents が読み込まれる", () => {
+    expect(places.length).toBeGreaterThan(0)
+    expect(contents.length).toBeGreaterThan(0)
+  })
+
+  it("getThemeEvents はタグ付きの終了していないイベントのみ返す", () => {
+    const now = new Date("2026-10-17T12:00:00+09:00")
+    const events = getThemeEvents("free", now)
+    expect(
+      events.every(
+        (content) => (content.end_at ?? content.start_at)! >= "2026-10-17"
+      )
+    ).toBe(true)
+  })
+
+  it("getNextFestivalEvent はキーワードを含む開催予定記事を返す", () => {
+    const now = new Date("2026-10-17T12:00:00+09:00")
+    const festival = { keyword: "ふるさと渋谷フェスティバル" } as Parameters<
+      typeof getNextFestivalEvent
+    >[0]
+    expect(getNextFestivalEvent(festival, now)?.title).toContain(
+      "ふるさと渋谷フェスティバル"
+    )
+    expect(
+      getNextFestivalEvent({ ...festival, keyword: "存在しない" }, now)
+    ).toBeUndefined()
+  })
+
+  it("getPlace はIDで取得できる", () => {
+    expect(getPlace("yoyogi-park")?.name).toBe("代々木公園")
+    expect(getPlace("unknown")).toBeUndefined()
+  })
+
+  it("getLatestContents は公開日降順", () => {
+    const latest = getLatestContents()
+    for (let i = 1; i < latest.length; i++) {
+      expect(latest[i - 1].published_at >= latest[i].published_at).toBe(true)
+    }
+  })
+
+  it("getContentsByCategory は該当カテゴリのみ返す", () => {
+    const popups = getContentsByCategory("popup")
+    expect(popups.length).toBeGreaterThan(0)
+    expect(popups.every((content) => content.category === "popup")).toBe(true)
+  })
+
+  it("getEventsInPeriod は期間重複イベントを返す", () => {
+    // 4: 10/23〜11/11、3: 11/8のみ
+    const events = getEventsInPeriod("2026-11-01", "2026-11-01")
+    expect(events.some((event) => event.id === 4)).toBe(true)
+    expect(events.some((event) => event.id === 3)).toBe(false)
+  })
+
+  it("getEventsInPeriod は開始が近い順(開催中は開始が新しい順で先頭)", () => {
+    const from = "2026-11-05"
+    const key = (start: string) => (start > from ? start : from)
+    const starts = getEventsInPeriod(from, "2027-01-31").map(
+      (event) => event.start_at ?? ""
+    )
+    for (let i = 1; i < starts.length; i++) {
+      const [a, b] = [starts[i - 1], starts[i]]
+      expect(key(a) < key(b) || (key(a) === key(b) && a >= b)).toBe(true)
+    }
+  })
+
+  it("getUpcomingDaysEvents は今日〜明後日の期間と重複するイベントを返す", () => {
+    const now = new Date("2026-11-03T12:00:00+09:00")
+    const expected = getEventsInPeriod("2026-11-03", "2026-11-05")
+    expect(getUpcomingDaysEvents(now)).toEqual(expected)
+  })
+
+  it("getOngoingContentsByCategory は開催中のみ返す", () => {
+    const ongoing = getOngoingContentsByCategory(
+      "popup",
+      new Date("2026-11-05T12:00:00+09:00")
+    )
+    // 9: HERALBONY POP UP(11/3〜11/15)、22: GELATO PIQUE(11/14〜)
+    expect(ongoing.map((content) => content.id)).toContain(9)
+    expect(ongoing.map((content) => content.id)).not.toContain(22)
+  })
+
+  it("getPlaceContents は開催中・今後・その他に重複なく分類", () => {
+    const now = new Date("2026-11-10T12:00:00+09:00")
+    const { ongoing, upcoming, others } = getPlaceContents(
+      "shibuya-hikarie",
+      now
+    )
+    const ids = [...ongoing, ...upcoming, ...others].map((c) => c.id)
+    expect(new Set(ids).size).toBe(ids.length)
+    expect(ids.length).toBe(
+      contents.filter((c) => c.place_id === "shibuya-hikarie").length
+    )
+    expect(upcoming.every((c) => (c.start_at ?? "") > "2026-11-10")).toBe(true)
+  })
+
+  it("getRelatedContents は自分を含まず上限以内", () => {
+    const target = contents.find((c) => c.place_id === "shibuya-hikarie")!
+    const related = getRelatedContents(target, 6)
+    expect(related.length).toBeLessThanOrEqual(6)
+    expect(related.some((c) => c.id === target.id)).toBe(false)
+    expect(related[0]?.place_id).toBe("shibuya-hikarie")
+  })
+
+  it("getArchiveMonths はしきい値以上の月のみ", () => {
+    for (const { year, month } of getArchiveMonths()) {
+      expect(getMonthEvents(year, month).length).toBeGreaterThanOrEqual(
+        ARCHIVE_MIN_EVENTS
+      )
+    }
+  })
+})

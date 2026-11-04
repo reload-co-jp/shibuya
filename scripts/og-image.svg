@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Archivo:wght@900&amp;family=Noto+Sans+JP:wght@600;900&amp;display=block");
+    .en { font-family: "Archivo", "Helvetica Neue", Arial, sans-serif; font-weight: 900; }
+    .heading { font-family: "Noto Sans JP", "Hiragino Sans", sans-serif; font-weight: 900; }
+    .sans { font-family: "Noto Sans JP", "Hiragino Sans", sans-serif; font-weight: 600; }
+  </style>
+  <rect width="1200" height="630" fill="#16161D"/>
+  <rect x="60" y="60" width="1080" height="510" fill="none" stroke="#F5F5F3" stroke-width="2"/>
+  <text class="sans" x="100" y="128" font-size="20" letter-spacing="7" fill="#F06292">TOKYO · SHIBUYA · DAILY</text>
+  <text class="en" x="100" y="318" font-size="112" fill="#F5F5F3" textLength="960" lengthAdjust="spacingAndGlyphs">SHIBUYA JOURNAL</text>
+  <rect x="1072" y="290" width="20" height="20" fill="#F06292"/>
+  <rect x="100" y="372" width="80" height="4" fill="#F06292"/>
+  <text class="sans" x="204" y="384" font-size="30" letter-spacing="12" fill="#F5F5F3">渋谷ライブ</text>
+  <line x1="100" y1="470" x2="1100" y2="470" stroke="#3A3A46" stroke-width="1"/>
+  <text class="heading" x="100" y="525" font-size="34" fill="#F5F5F3">渋谷の今を、見つける。</text>
+  <text class="sans" x="1100" y="525" font-size="18" letter-spacing="3" fill="#A0A0AC" text-anchor="end">shibuya.reload.co.jp</text>
+</svg>

@@ -1,0 +1,290 @@
+[
+  {
+    "month": 1,
+    "keyword": "初詣",
+    "name": {
+      "ja": "明治神宮 初詣",
+      "en": "Hatsumode at Meiji Jingu",
+      "zh": "明治神宫 新年参拜"
+    },
+    "date": {
+      "ja": "1月1日〜3日",
+      "en": "Jan 1–3",
+      "zh": "1月1日〜3日"
+    },
+    "venue": {
+      "ja": "明治神宮",
+      "en": "Meiji Jingu",
+      "zh": "明治神宫"
+    },
+    "description": {
+      "ja": "例年、三が日の参拝者数が全国有数となる明治神宮の初詣。元日の0時を迎えると大勢の参拝者が南参道・北参道から本殿へ向かう。",
+      "en": "One of Japan's busiest New Year shrine visits; crowds head to the main hall from midnight on New Year's Day.",
+      "zh": "明治神宫的新年参拜，正月头三天的参拜人数位居全国前列。元旦零时起大批参拜者前往正殿。"
+    }
+  },
+  {
+    "month": 2,
+    "keyword": "紀元祭",
+    "name": {
+      "ja": "明治神宮 紀元祭",
+      "en": "Kigensai at Meiji Jingu",
+      "zh": "明治神宫 纪元祭"
+    },
+    "date": {
+      "ja": "2月11日",
+      "en": "Feb 11",
+      "zh": "2月11日"
+    },
+    "venue": {
+      "ja": "明治神宮",
+      "en": "Meiji Jingu",
+      "zh": "明治神宫"
+    },
+    "description": {
+      "ja": "建国記念の日に行われる祭典。神武天皇の即位をしのび、国の発展を祈る。",
+      "en": "A rite held on National Foundation Day, praying for the nation's prosperity.",
+      "zh": "在建国纪念日举行的祭典，祈愿国家繁荣。"
+    }
+  },
+  {
+    "month": 4,
+    "keyword": "春の大祭",
+    "name": {
+      "ja": "明治神宮 春の大祭",
+      "en": "Spring Grand Festival at Meiji Jingu",
+      "zh": "明治神宫 春季大祭"
+    },
+    "date": {
+      "ja": "4月29日〜5月3日頃",
+      "en": "Around Apr 29–May 3",
+      "zh": "4月29日〜5月3日前后"
+    },
+    "venue": {
+      "ja": "明治神宮",
+      "en": "Meiji Jingu",
+      "zh": "明治神宫"
+    },
+    "description": {
+      "ja": "昭和の日を中心に行われる春の例祭。期間中は舞楽や能・狂言、邦楽などの奉納行事が境内で催される。",
+      "en": "Held around Showa Day with dedicatory performances such as bugaku, Noh and traditional music.",
+      "zh": "以昭和之日为中心举行的春季例祭，期间在神宫内举办舞乐、能乐等奉纳活动。"
+    }
+  },
+  {
+    "month": 5,
+    "keyword": "タイフェスティバル",
+    "name": {
+      "ja": "タイフェスティバル東京",
+      "en": "Thai Festival Tokyo",
+      "zh": "泰国节 东京"
+    },
+    "date": {
+      "ja": "5月中旬の週末",
+      "en": "A weekend in mid-May",
+      "zh": "5月中旬的周末"
+    },
+    "venue": {
+      "ja": "代々木公園 イベント広場",
+      "en": "Yoyogi Park Event Plaza",
+      "zh": "代代木公园 活动广场"
+    },
+    "description": {
+      "ja": "タイ料理の屋台や物産、ステージが並ぶ国内最大級のタイのフェス。初夏の代々木公園の恒例行事。",
+      "en": "One of Japan's largest Thai festivals, with food stalls, goods and stage shows at Yoyogi Park.",
+      "zh": "日本最大规模的泰国节之一，汇集泰国美食摊位、物产和舞台表演。"
+    }
+  },
+  {
+    "month": 8,
+    "keyword": "スーパーよさこい",
+    "name": {
+      "ja": "原宿表参道元氣祭 スーパーよさこい",
+      "en": "Harajuku Omotesando Genki Matsuri Super Yosakoi",
+      "zh": "原宿表参道元气祭 超级YOSAKOI"
+    },
+    "date": {
+      "ja": "8月下旬",
+      "en": "Late August",
+      "zh": "8月下旬"
+    },
+    "venue": {
+      "ja": "明治神宮・代々木公園・表参道",
+      "en": "Meiji Jingu, Yoyogi Park, Omotesando",
+      "zh": "明治神宫・代代木公园・表参道"
+    },
+    "description": {
+      "ja": "全国から集まったよさこいチームが表参道や代々木公園のステージで鳴子を手に踊りを披露する、夏の原宿の一大イベント。",
+      "en": "Yosakoi dance teams from across Japan perform along Omotesando and at Yoyogi Park.",
+      "zh": "来自全国的YOSAKOI舞蹈队在表参道和代代木公园表演，是原宿夏季盛事。"
+    }
+  },
+  {
+    "month": 9,
+    "keyword": "金王八幡宮",
+    "name": {
+      "ja": "金王八幡宮 例大祭",
+      "en": "Konno Hachimangu Annual Festival",
+      "zh": "金王八幡宫 例大祭"
+    },
+    "date": {
+      "ja": "9月中旬",
+      "en": "Mid-September",
+      "zh": "9月中旬"
+    },
+    "venue": {
+      "ja": "金王八幡宮・渋谷駅周辺",
+      "en": "Konno Hachimangu and around Shibuya Station",
+      "zh": "金王八幡宫・涩谷站周边"
+    },
+    "description": {
+      "ja": "渋谷の総鎮守ともいわれる金王八幡宮の例大祭。氏子町会の神輿が渋谷の街を練り歩き、駅前に神輿が集まる。",
+      "en": "The annual festival of Konno Hachimangu; portable shrines parade through central Shibuya.",
+      "zh": "金王八幡宫的例大祭，各町会神轿在涩谷街头巡游。"
+    }
+  },
+  {
+    "month": 9,
+    "keyword": "BON DANCE",
+    "name": {
+      "ja": "SHIBUYA MIYASHITA PARK BON DANCE",
+      "en": "SHIBUYA MIYASHITA PARK BON DANCE",
+      "zh": "SHIBUYA MIYASHITA PARK BON DANCE"
+    },
+    "date": {
+      "ja": "9月下旬",
+      "en": "Late September",
+      "zh": "9月下旬"
+    },
+    "venue": {
+      "ja": "MIYASHITA PARK",
+      "en": "MIYASHITA PARK",
+      "zh": "MIYASHITA PARK"
+    },
+    "description": {
+      "ja": "渋谷のカルチャーと日本の伝統的な祭りを融合させた盆踊りイベント。",
+      "en": "A bon-odori dance event blending Shibuya culture with Japanese festival tradition.",
+      "zh": "融合涩谷文化与日本传统祭典的盂兰盆舞活动。"
+    }
+  },
+  {
+    "month": 10,
+    "keyword": "渋谷音楽祭",
+    "name": {
+      "ja": "渋谷音楽祭",
+      "en": "Shibuya Music Festival",
+      "zh": "涩谷音乐节"
+    },
+    "date": {
+      "ja": "10月中旬",
+      "en": "Mid-October",
+      "zh": "10月中旬"
+    },
+    "venue": {
+      "ja": "LINE CUBE SHIBUYA・宮下公園・道玄坂ほか",
+      "en": "LINE CUBE SHIBUYA, Miyashita Park, Dogenzaka and more",
+      "zh": "LINE CUBE SHIBUYA・宫下公园・道玄坂等"
+    },
+    "description": {
+      "ja": "道路や公園、商業施設など渋谷の街全体を舞台にした音楽祭。2026年は10月17日・18日に第21回が開催された。",
+      "en": "A music festival using streets, parks and venues across Shibuya; the 21st edition ran Oct 17–18, 2026.",
+      "zh": "以涩谷整条街为舞台的音乐节，2026年第21届于10月17日・18日举办。"
+    }
+  },
+  {
+    "month": 11,
+    "keyword": "秋の大祭",
+    "name": {
+      "ja": "明治神宮 秋の大祭",
+      "en": "Autumn Grand Festival at Meiji Jingu",
+      "zh": "明治神宫 秋季大祭"
+    },
+    "date": {
+      "ja": "11月1日〜3日",
+      "en": "Nov 1–3",
+      "zh": "11月1日〜3日"
+    },
+    "venue": {
+      "ja": "明治神宮",
+      "en": "Meiji Jingu",
+      "zh": "明治神宫"
+    },
+    "description": {
+      "ja": "明治天皇の誕生日である11月3日を中心とした例祭。流鏑馬や舞楽、邦楽などの奉祝行事が行われる。",
+      "en": "Centered on Nov 3, Emperor Meiji's birthday, with yabusame horseback archery and traditional performances.",
+      "zh": "以明治天皇诞辰11月3日为中心的例祭，举办流镝马、舞乐等奉祝活动。"
+    }
+  },
+  {
+    "month": 11,
+    "keyword": "ふるさと渋谷フェスティバル",
+    "name": {
+      "ja": "渋谷区くみんの広場 ふるさと渋谷フェスティバル",
+      "en": "Furusato Shibuya Festival",
+      "zh": "故乡涩谷节"
+    },
+    "date": {
+      "ja": "11月上旬の土日",
+      "en": "A weekend in early November",
+      "zh": "11月上旬的周末"
+    },
+    "venue": {
+      "ja": "代々木公園",
+      "en": "Yoyogi Park",
+      "zh": "代代木公园"
+    },
+    "description": {
+      "ja": "約130団体が参加する渋谷区最大の区民祭り。全国の物産展やステージ、子ども向けの体験企画が並ぶ。入場無料。",
+      "en": "Shibuya Ward's biggest community festival with about 130 groups, regional food, stages and kids' activities. Free entry.",
+      "zh": "约130个团体参加的涩谷区最大区民节庆，有全国物产展、舞台和儿童体验活动。免费入场。"
+    }
+  },
+  {
+    "month": 11,
+    "keyword": "フィエスタ・デ・エスパーニャ",
+    "name": {
+      "ja": "フィエスタ・デ・エスパーニャ",
+      "en": "Fiesta de España",
+      "zh": "西班牙节"
+    },
+    "date": {
+      "ja": "11月中旬の週末",
+      "en": "A weekend in mid-November",
+      "zh": "11月中旬的周末"
+    },
+    "venue": {
+      "ja": "代々木公園 イベント広場",
+      "en": "Yoyogi Park Event Plaza",
+      "zh": "代代木公园 活动广场"
+    },
+    "description": {
+      "ja": "日本スペイン交流400周年を機に2013年に始まった国内最大級のスペインフェス。大鍋パエリアやフラメンコが名物。",
+      "en": "Japan's largest Spanish festival since 2013, famous for giant paella pans and flamenco.",
+      "zh": "2013年起举办的日本最大规模西班牙节，以大锅海鲜饭和弗拉明戈闻名。"
+    }
+  },
+  {
+    "month": 12,
+    "keyword": "ディオール イルミネーション",
+    "name": {
+      "ja": "表参道イルミネーション",
+      "en": "Omotesando Illumination",
+      "zh": "表参道灯饰"
+    },
+    "date": {
+      "ja": "12月上旬〜下旬",
+      "en": "Early to late December",
+      "zh": "12月上旬〜下旬"
+    },
+    "venue": {
+      "ja": "表参道（神宮前交差点〜表参道交差点）",
+      "en": "Omotesando (Jingumae to Omotesando crossings)",
+      "zh": "表参道（神宫前十字路口〜表参道十字路口）"
+    },
+    "description": {
+      "ja": "表参道のケヤキ並木を約90万のLED球がシャンパンゴールドに彩る冬の風物詩。",
+      "en": "Around 900,000 champagne-gold LEDs light up the zelkova trees of Omotesando.",
+      "zh": "约90万颗香槟金色LED灯点亮表参道的榉树林荫道。"
+    }
+  }
+]

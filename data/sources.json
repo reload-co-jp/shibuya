@@ -1,0 +1,198 @@
+[
+  {
+    "id": "shibuya-city",
+    "name": "渋谷区",
+    "url": "https://www.city.shibuya.tokyo.jp/",
+    "source_type": "government",
+    "priority": 1
+  },
+  {
+    "id": "shibuya-city-event",
+    "name": "渋谷区 イベント",
+    "url": "https://www.city.shibuya.tokyo.jp/event/",
+    "source_type": "government",
+    "priority": 1
+  },
+  {
+    "id": "shibuya-fes",
+    "name": "ふるさと渋谷フェスティバル",
+    "url": "https://www.shibuya-fes.online/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "meiji-jingu",
+    "name": "明治神宮",
+    "url": "https://www.meijijingu.or.jp/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "hikarie",
+    "name": "渋谷ヒカリエ",
+    "url": "https://www.hikarie.jp/event/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "parco",
+    "name": "渋谷PARCO",
+    "url": "https://shibuya.parco.jp/event/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "scramble-square",
+    "name": "渋谷スクランブルスクエア・SHIBUYA SKY",
+    "url": "https://www.shibuya-scramble-square.com/sky/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "miyashita-park",
+    "name": "MIYASHITA PARK",
+    "url": "https://www.miyashita-park.tokyo/schedule/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "omotesando-hills",
+    "name": "表参道ヒルズ",
+    "url": "https://www.omotesandohills.com/events/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "gardenplace",
+    "name": "恵比寿ガーデンプレイス",
+    "url": "https://gardenplace.jp/event/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "harakado",
+    "name": "東急プラザ原宿「ハラカド」",
+    "url": "https://harakado.tokyu-plaza.com/harakado/event/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "line-cube",
+    "name": "LINE CUBE SHIBUYA",
+    "url": "https://linecube-shibuya.com/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "yoyogi-forest-of-lights",
+    "name": "代々木フォレスト・オブ・ライツ",
+    "url": "https://www.yoyogiforestoflights.tokyo/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "spainfes",
+    "name": "フィエスタ・デ・エスパーニャ",
+    "url": "https://spainfes.com/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "prtimes",
+    "name": "PR TIMES「渋谷」",
+    "url": "https://prtimes.jp/main/action.php?run=html&page=searchkey&search_word=%E6%B8%8B%E8%B0%B7",
+    "source_type": "press_release",
+    "priority": 3
+  },
+  {
+    "id": "prtimes-harajuku",
+    "name": "PR TIMES「原宿」",
+    "url": "https://prtimes.jp/main/action.php?run=html&page=searchkey&search_word=%E5%8E%9F%E5%AE%BF",
+    "source_type": "press_release",
+    "priority": 3
+  },
+  {
+    "id": "prtimes-omotesando",
+    "name": "PR TIMES「表参道」",
+    "url": "https://prtimes.jp/main/action.php?run=html&page=searchkey&search_word=%E8%A1%A8%E5%8F%82%E9%81%93",
+    "source_type": "press_release",
+    "priority": 3
+  },
+  {
+    "id": "prtimes-ebisu",
+    "name": "PR TIMES「恵比寿」",
+    "url": "https://prtimes.jp/main/action.php?run=html&page=searchkey&search_word=%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "source_type": "press_release",
+    "priority": 3
+  },
+  {
+    "id": "google-news",
+    "name": "Google ニュース「渋谷」",
+    "url": "https://news.google.com/rss/search?q=%E6%B8%8B%E8%B0%B7&hl=ja&gl=JP&ceid=JP:ja",
+    "source_type": "web_media",
+    "priority": 4
+  },
+  {
+    "id": "google-news-event",
+    "name": "Google ニュース「渋谷 イベント」",
+    "url": "https://news.google.com/rss/search?q=%E6%B8%8B%E8%B0%B7%20%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88&hl=ja&gl=JP&ceid=JP:ja",
+    "source_type": "web_media",
+    "priority": 4
+  },
+  {
+    "id": "google-news-harajuku",
+    "name": "Google ニュース「原宿」",
+    "url": "https://news.google.com/rss/search?q=%E5%8E%9F%E5%AE%BF&hl=ja&gl=JP&ceid=JP:ja",
+    "source_type": "web_media",
+    "priority": 4
+  },
+  {
+    "id": "enjoytokyo",
+    "name": "レッツエンジョイ東京 渋谷",
+    "url": "https://www.enjoytokyo.jp/event/list/area1303/",
+    "source_type": "event_platform",
+    "priority": 4
+  },
+  {
+    "id": "jorudan",
+    "name": "ジョルダン イルミネーション特集",
+    "url": "https://sp.jorudan.co.jp/illumi/",
+    "source_type": "web_media",
+    "priority": 4
+  },
+  {
+    "id": "storm-mg",
+    "name": "風傳媒日本語版",
+    "url": "https://japan.storm.mg/",
+    "source_type": "web_media",
+    "priority": 5
+  },
+  {
+    "id": "tabelog",
+    "name": "食べログ 渋谷",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/",
+    "source_type": "gourmet_site",
+    "priority": 5
+  },
+  {
+    "id": "tabelog-harajuku",
+    "name": "食べログ 原宿・表参道",
+    "url": "https://tabelog.com/tokyo/A1306/",
+    "source_type": "gourmet_site",
+    "priority": 5
+  },
+  {
+    "id": "maisen",
+    "name": "とんかつ まい泉",
+    "url": "https://mai-sen.com/",
+    "source_type": "official",
+    "priority": 2
+  },
+  {
+    "id": "fuglen",
+    "name": "FUGLEN TOKYO",
+    "url": "https://fuglencoffee.jp/pages/shop-location",
+    "source_type": "official",
+    "priority": 2
+  }
+]

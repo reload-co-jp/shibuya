@@ -1,0 +1,102 @@
+name: Content harvest
+
+# 巡回先(渋谷ヒカリエ・渋谷PARCO・表参道ヒルズ・恵比寿ガーデンプレイス・MIYASHITA PARK・PR TIMES)から
+# 新しい記事候補を集め、shibuya-article-harvester スキルで記事化して data/contents.json に追加する
+on:
+  # 毎朝 JST 6:47 に実行(UTC 21:47)
+  schedule:
+    - cron: "47 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+  actions: write
+
+concurrency:
+  group: content-harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      # harvest.py image が identify / convert を使う
+      - name: Install ImageMagick
+        run: |
+          if ! command -v identify >/dev/null; then
+            sudo apt-get update
+            sudo apt-get install -y imagemagick
+          fi
+
+      - name: Scan sources (list, dedup, detail)
+        run: pnpm harvest scan
+
+      - name: Run Claude Skill shibuya-article-harvester
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          show_full_output: true
+          claude_args: >-
+            --max-turns 200
+            --allowedTools "Read,Glob,Grep,Edit,Write,WebFetch,Bash(pnpm harvest:*),Bash(pnpm validate:contents),Bash(python3 .claude/skills/shibuya-article-harvester/scripts/harvest.py:*),Bash(git status:*),Bash(git diff:*)"
+          prompt: |
+            Read .claude/skills/shibuya-article-harvester/SKILL.md and execute it.
+            Do not merely explain the skill; actually add the articles.
+            Follow the "自動巡回モード" section: `pnpm harvest scan` has already run,
+            so start from tmp/harvest-queue.json and do not rerun scan.
+            Save images only via `pnpm harvest image`.
+            Record rejected candidates with `pnpm harvest exclude`.
+            Do not run pnpm build (the workflow runs it afterwards).
+            Do not ask questions. Finish with the 報告 section.
+
+      - name: Format data
+        run: pnpm exec prettier --write data/contents.json data/places.json data/harvest-excluded.json
+
+      - name: Validate contents
+        run: pnpm validate:contents
+
+      - name: Test
+        run: pnpm test
+
+      - name: Build
+        run: pnpm build
+
+      - name: Commit and push data
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/contents.json data/places.json data/harvest-excluded.json public/images/contents
+          if git diff --cached --quiet; then
+            echo "No changes detected, skipping push"
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update contents $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # GITHUB_TOKEN による push では他のワークフローが起動しないため、デプロイを明示的に呼ぶ
+      - name: Trigger deploy workflow
+        if: steps.commit.outputs.pushed == 'true' && github.ref_name == 'main'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref main

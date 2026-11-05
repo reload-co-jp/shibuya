@@ -9,8 +9,8 @@ import { getDictionary, HTML_LANG, localePath } from "@/lib/i18n"
 import { SITE_URL } from "@/lib/json-ld"
 import "../reset.css"
 
-// GA4の測定ID。渋谷ライブ用のプロパティ作成後に設定する(空なら計測タグを出さない)
-const GA_MEASUREMENT_ID = ""
+// GA4の測定ID(空なら計測タグを出さない)
+const GA_MEASUREMENT_ID = "G-QPGXGEWM3N"
 
 // /en/ /zh/ の[locale]ルートレイアウトと共用
 export const generateMetadata = async (): Promise<Metadata> => {

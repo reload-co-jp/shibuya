@@ -47,7 +47,23 @@ metadata:
    python3 .claude/skills/shibuya-article-harvester/scripts/harvest.py image "<og:image URL>" <id>
    ```
    出力されたパスを `image_url` に入れる。既存IDの画像は上書きしない（拒否される）。使える画像がなければ `image_url: null`（カテゴリのプレースホルダー表示）。
-6. `data/contents.json` に一括で追記し、`pnpm test` → `pnpm build` で確認する。
+6. `data/contents.json` に一括で追記し、`pnpm validate:contents` → `pnpm test` → `pnpm build` で確認する。
+
+## 自動巡回モード（`pnpm harvest scan` 済みの場合）
+
+GitHub Actions（`.github/workflows/content-harvest.yml`）からは、機械的な部分を先に済ませてから呼び出す。
+
+1. `pnpm harvest scan` が `tmp/harvest-queue.json` を出力済み。scan は再実行しない。
+   - 収録済みの `source_url`・`data/harvest-excluded.json` の URL・【終了】表記・PR TIMES の区外リリースは除外済み
+   - 各候補の `detail` に og:image・概要・本文抜粋が入る。`detail.note` があるもの（本文が取れなかったもの）は WebFetch で一次情報を確認する
+2. キューの候補を上の Candidate Rules で判定し、Quick Start 3〜6 の手順で記事化する（`dedup` で同名の既存記事を確認、`next-id`、`image`）。
+3. 記事化しない候補は理由を付けて除外リストに入れる（90日間は scan に出なくなる）:
+   ```bash
+   pnpm harvest exclude "<url>|区外" "<url>|終了済み" "<url>|会期未確認"
+   ```
+   事実が後から出そろいそうなもの（日付未発表など）は除外せず残す。
+4. `data/contents.json` への追記後に `pnpm validate:contents` を通す。`pnpm build` はワークフロー側で実行するので不要。
+5. 確認や質問はしない。判断に迷う候補は保留にして報告に書く。
 
 ## スキーマ（`lib/types.ts` の `Content`）
 

@@ -1,0 +1,1500 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+  <head>
+    <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+
+<meta name="keywords" content="東急プラザ,原宿,ハラカド,東急不動産,ショッピングセンター,商業施設">
+
+    <title>東急プラザ原宿「ハラカド」</title>
+    <meta name="description" content="東急プラザ原宿「ハラカド」公式サイト。原宿「ハラカド」の施設情報、ショップ情報、フロアマップ、アクセス、イベント、ポイントカードをご案内。東急不動産のショッピングセンター。">
+
+    <link rel="stylesheet" href="/harakado/theme/hrkd/assets/css/default.css">
+<link rel="stylesheet" href="/harakado/theme/hrkd/assets/css/layout.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@4.0.0/dist/css/yakuhanjp_s.css" integrity="sha384-tKBogz87fNLcmbIuR7BUAR3aVnZPeoqTglJetjhy8qXJRxoRJkZrKI1DbV8oTTxF" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+
+<link rel="shortcut icon" href="/harakado/theme/hrkd/assets/images/favicon/favicon.ico">
+<link rel="image/png" sizes="16×16" href="/harakado/theme/hrkd/assets/images/favicon/icon-16x16.png">
+<link rel="image/png" sizes="32×32" href="/harakado/theme/hrkd/assets/images/favicon/icon-32x32.png">
+<link rel="apple-touch-icon" href="/harakado/theme/hrkd/assets/images/favicon/apple-touch-icon.png" sizes="180x180">
+<link rel="icon" href="/harakado/theme/hrkd/assets/images/favicon/webclip-icon.png" sizes="192x192">
+<!-- AI検索 -->
+<script src="https://cloud.google.com/ai/gen-app-builder/client?hl=ja"></script>
+    <link rel="stylesheet" href="/harakado/theme/hrkd/assets/css/layout-home.css">
+
+    
+<meta property="og:title" content="東急プラザ原宿「ハラカド」">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.tokyu-plaza.com/harakado/theme/hrkd/assets/images/ogp.png">
+<meta property="og:url" content="https://www.tokyu-plaza.com/harakado/">
+<meta property="og:description" content="東急プラザ原宿「ハラカド」公式サイト。原宿「ハラカド」の施設情報、ショップ情報、フロアマップ、アクセス、イベント、ポイントカードをご案内。東急不動産のショッピングセンター。">
+<meta property="og:site_name" content="東急プラザ原宿「ハラカド」">
+<meta property="og:locale" content="ja">
+<meta property="fb:app_id" content="">
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@graph": [{
+"@id": "https://www.tokyu-plaza.com/harakado/#organization",
+"@type": "Organization",
+"image": {
+"@id": "https://www.tokyu-plaza.com/harakado/#/schema/logo/image/"
+},
+"logo": {
+"@type": "ImageObject",
+"@id": "https://www.tokyu-plaza.com/harakado/#/schema/logo/image/",
+"url": "https://www.tokyu-plaza.com/harakado/theme/hrkd/assets/images/common/icon-sitelogo.png",
+"contentUrl": "",
+"width": 153,
+"height": 87,
+"inLanguage": "ja",
+"caption": "東急プラザ原宿「ハラカド」"
+},
+"name": "東急プラザ原宿「ハラカド」",
+"url": "https://www.tokyu-plaza.com/harakado/"
+},
+{
+"@id": "https://www.tokyu-plaza.com/harakado/#website",
+"@type": "WebSite",
+"inLanguage": "ja",
+"name": "東急プラザ原宿「ハラカド」",
+"description": "東急プラザ",
+"publisher": {
+"@id": "https://www.tokyu-plaza.com/harakado/#organization"
+},
+      "potentialAction": [{
+"@type": "SearchAction",
+"target": {
+"@type": "EntryPoint",
+"urlTemplate": "https://www.tokyu-plaza.com/harakado/?s={search_term_string}"
+},
+"query-input": "required name=search_term_string"
+}],
+"url": "https://www.tokyu-plaza.com/harakado/"
+},
+{
+"@id": "https://www.tokyu-plaza.com/harakado/#webpage",
+"@type": "WebPage",
+"breadcrumb": {
+"@id": "https://www.tokyu-plaza.com/harakado/#breadcrumb"
+},
+"dateModified": "2026-11-06 10:19:05",
+"datePublished": "2026-11-06 10:19:05",
+"inLanguage": "ja",
+"isPartOf": {
+"@id": "https://www.tokyu-plaza.com/harakado/#website"
+},
+"name": "東急プラザ原宿「ハラカド」",
+"url": "https://www.tokyu-plaza.com/harakado/"
+},
+{
+"@id": "https://www.tokyu-plaza.com/harakado/#breadcrumb",
+"@type": "BreadcrumbList",
+"itemListElement": [{
+"@type": "ListItem",
+"item": "https://www.tokyu-plaza.com/harakado/",
+"name": "トップ",
+"position": 1
+}
+]
+}
+]
+}
+
+</script>
+
+    <!-- Google Tag Manager --> 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WJJRZLK');</script>
+<!-- End Google Tag Manager -->
+  </head>
+
+  <body>
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJJRZLK"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="g-container">
+
+      <header class="g-header js-g-header">
+  <div class="parent-company">
+    <a href="https://www.tokyu-land.co.jp/" class="parent-company__link" target="_blank">
+      <img class="parent-company__image" src="/harakado/theme/hrkd/assets/images/common/tlc-logo.jpg" alt="">
+    </a>
+  </div>
+<div class="header-inner">
+<div class="site-logo">
+<a href="/harakado/"><img src="/harakado/theme/hrkd/assets/images/common/icon-sitelogo.svg" alt="東急プラザ原宿「ハラカド」"></a>
+</div>
+<div class="right-content">
+<div class="upper-menu">
+<ul class="site-menu js-site-menu">
+<li><a href="/">東急プラザについて</a></li>
+<li><a href="/shibuya/">渋谷</a></li>
+          <li><a href="/omokado/">オモカド</a></li>
+<li><a href="/harakado/">ハラカド</a></li>
+          <li><a href="/kamata/">蒲田</a></li>
+          <li><a href="/totsuka/">戸塚</a></li>
+          <li><a href="/shinnagata/">新長田</a></li>
+</ul>
+
+        <!-- crosslanguage:delete -->
+<div class="header-search">
+<div class="search-inner">
+            <gen-search-widget configId="64326a93-458d-4b2c-bb52-45172e1e136c" triggerId="searchWidgetTrigger-pc-header"></gen-search-widget>
+            <button class="search-toggle" id="searchWidgetTrigger-pc-header">サイト内検索</button>
+</div>
+</div>
+<!-- /crosslanguage:delete -->
+
+                <div class="foundchat _pc-only">
+          <a href="/harakado/facility/detail/7">落とし物</a>
+        </div>
+        
+
+<div class="sns _pc-only cl-notranslate"><a class="js-dropdown-menu">SNS</a>
+<ul class="sns-list">
+<li><a href="https://www.instagram.com/omokado.harakado_official/#" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-instagram.svg" alt="Instagram" loading="lazy"></a></li>
+<li><a href="https://www.tiktok.com/@harakado_omokado?_t=8okZuCLG5Te&_r=1" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-tiktok.svg" alt="TikTok" loading="lazy"></a></li>
+<li><a class="x" href="https://x.com/harakado_" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-x.svg" alt="X" loading="lazy"></a></li>
+</ul>
+</div>
+</div>
+
+<div class="lower-menu">
+<ul class="header-menu _pc-only">
+<li><a href="/harakado/shop/search">ショップガイド</a></li>
+<li><a href="/harakado/shop/gourmet">グルメガイド</a></li>
+<li><a href="/harakado/shop/floor">フロアマップ</a></li>
+<li><a href="/harakado/event/">イベント・POPUP</a></li>
+<li><a href="/harakado/access/#parking">駐車場</a></li>
+<li><a href="/harakado/access/">アクセス</a></li>
+</ul>
+
+                <!-- crosslanguage:delete -->
+        <div class="search _sp-only">
+          <gen-search-widget configId="64326a93-458d-4b2c-bb52-45172e1e136c" triggerId="searchWidgetTrigger-sp-header"></gen-search-widget>
+          <button type="button" id="searchWidgetTrigger-sp-header"><span>検索</span></button>
+        </div>
+        <!-- /crosslanguage:delete -->
+        
+                <div class="foundchat _sp-only">
+          <a href="/harakado/facility/detail/7"><span>落とし物</span></a>
+        </div>
+        
+<div class="sns _sp-only cl-notranslate"><a class="js-dropdown-menu"><span>SNS</span></a>
+<ul class="sns-list">
+<li><a href="https://www.instagram.com/omokado.harakado_official/#" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-instagram.svg" alt="Instagram" loading="lazy"></a></li>
+<li><a href="https://www.tiktok.com/@harakado_omokado?_t=8okZuCLG5Te&_r=1" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-tiktok.svg" alt="TikTok" loading="lazy"></a></li>
+<li><a class="x" href="https://x.com/harakado_" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-x.svg" alt="X" loading="lazy"></a></li>
+</ul>
+</div>
+<div class="icon-menu js-menu"><i></i><i></i><i></i><span class="open">メニュー</span><span class="close">閉じる</span></div>
+<div class="header-nav">
+<div class="adjust-width">
+<div class="sp-content _sp-only">
+<div class="info-button-group">
+<a class="info-button business-hours" href="/harakado/facility/detail/1"><span>営業時間</span></a>
+<a class="info-button parking" href="/harakado/access/#parking"><span>駐車場</span></a>
+</div>
+</div>
+<div class="main-menu">
+<div class="left-content">
+<ul>
+<li><a href="/harakado/shop/search">ショップガイド</a></li>
+<li><a href="/harakado/shop/gourmet">グルメガイド</a></li>
+<li><a href="/harakado/shop/floor">フロアマップ</a></li>
+<li><a href="/harakado/event/">イベント・POPUP</a></li>
+<li><a href="/harakado/shopnews/">ショップニュース</a></li>
+<li><a href="/harakado/feature/">特典</a></li>
+</ul>
+</div>
+<div class="right-content">
+<ul>
+<li><a href="/harakado/special/">特集</a></li>
+<li><a href="/harakado/information/">施設からのお知らせ</a></li>
+<li><a href="/harakado/facility/">施設・サービス案内</a></li>
+<li><a href="/harakado/access/">アクセス・駐車場・<br class="_sp-only">駐輪場</a></li>
+<li><a href="/harakado/facility/detail/7">落とし物の問合せ</a></li>
+</ul>
+</div>
+</div>
+<div class="sub-menu">
+<div class="_pc-only">
+<a class="info-button business-hours" href="/harakado/facility/detail/1"><span>営業時間</span></a>
+<a class="info-button parking" href="/harakado/access/#parking"><span>駐車場</span></a>
+</div>
+              							<ul>
+<li><a href="/use/">サイトポリシー</a></li>
+<li><a href="https://www.tokyuland-scm.co.jp/contact/policy" class="external" target="_blank" rel="noopener">プライバシーポリシー</a></li>
+<li><a href="/harakado/facility/detail/2">お問い合わせ</a></li>
+</ul>
+</div>
+</div>
+<div class="tp-site _sp-only">
+            <div class="adjust-width">
+              <p class="heading">東急プラザ　各施設サイト</p>
+              <ul class="tp-site-list">
+                <li class="tp-site-item">
+                  <a class="tp-site-link -portal" href="/">
+                    東急プラザについて<span class="ff-en">PORTAL SITE</span>
+                  </a>
+                </li>
+                <li class="tp-site-item">
+                  <a class="tp-site-link -shibuya" href="/shibuya/">
+                    渋谷<span class="ff-en">SHIBUYA</span>
+                  </a>
+                </li>
+                <li class="tp-site-item">
+                  <a class="tp-site-link -omokado" href="/omokado/">
+                    表参道「オモカド」<span class="ff-en">OMOTESANDO OMOKADO</span>
+                  </a>
+                </li>
+                <li class="tp-site-item">
+                  <a class="tp-site-link -harakado" href="/harakado/">
+                    原宿「ハラカド」<span class="ff-en">HARAJUKU HARAKADO</span>
+                  </a>
+                </li>
+                <li class="tp-site-item">
+                  <a class="tp-site-link -kamata" href="/kamata/">
+                    蒲田<span class="ff-en">KAMATA</span>
+                  </a>
+                </li>
+                <li class="tp-site-item">
+                  <a class="tp-site-link -totsuka" href="/totsuka/">
+                    戸塚<span class="ff-en">TOTSUKA</span>
+                  </a>
+                </li>
+                <li class="tp-site-item">
+                  <a class="tp-site-link -shinnagata" href="/shinnagata/">
+                    新長田<span class="ff-en">SHINNAGATA</span>
+                  </a>
+                </li>
+              </ul>
+              <ul class="tp-site-other">
+                <li class="tp-site-app">
+                  <a href="/point/">東急プラザアプリ<span>TOKYU PLAZA APP</span></a>
+                </li>
+                <li class="tp-site-card">
+                  <a href="https://www.topcard.co.jp/" target="_blank" rel="noopener">
+                    <img src="/harakado/theme/hrkd/assets/images/common/bnr-footer03.png" alt="TOKYU CARD" loading="lazy"></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+<div class="relatedlinks">
+  <div class="adjust-width">
+    <p class="relatedlinks__title">関連施設サイト</p>
+    <dl class="relatedlinks__def">
+            <dt class="relatedlinks__def-dt">首都圏</dt>
+      <dd class="relatedlinks__def-dd">
+        <ul class="relatedlinks__list">
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/shibuya/" class="relatedlinks__link" target="_blank">東急プラザ渋谷</a></li>
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/omokado/" class="relatedlinks__link" target="_blank">東急プラザ表参道<br>「オモカド」</a></li>
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/harakado/" class="relatedlinks__link" target="_blank">東急プラザ原宿<br>「ハラカド」</a></li>
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/kamata/" class="relatedlinks__link" target="_blank">東急プラザ蒲田</a></li>
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/totsuka/" class="relatedlinks__link" target="_blank">東急プラザ戸塚</a></li>
+          <li class="relatedlinks__item"><a href="https://www.odaiba-decks.com/" class="relatedlinks__link" target="_blank">デックス東京ビーチ</a></li>
+          <li class="relatedlinks__item"><a href="https://northport.jp/" class="relatedlinks__link" target="_blank">ノースポート・モール</a></li>
+          <li class="relatedlinks__item"><a href="https://forestgate-daikanyama.jp/" class="relatedlinks__link" target="_blank">Forestgate <br>Daikanyama</a></li>
+          <li class="relatedlinks__item"><a href="https://www.shibuya-sakura-stage.com/" class="relatedlinks__link" target="_blank">Shibuya Sakura <br>Stage</a></li>
+          <li class="relatedlinks__item"><a href="https://www.q-plaza.jp/harajuku/" class="relatedlinks__link" target="_blank">キュープラザ原宿</a></li>
+          <li class="relatedlinks__item"><a href="https://www.q-plaza.jp/ebisu/" class="relatedlinks__link" target="_blank">キュープラザ恵比寿</a></li>
+          <li class="relatedlinks__item"><a href="https://www.q-plaza.jp/ebisuminami/" class="relatedlinks__link" target="_blank">キュープラザ恵比寿南</a></li>
+          <li class="relatedlinks__item"><a href="https://www.q-plaza.jp/futakotamagawa/" class="relatedlinks__link" target="_blank">キュープラザ二子玉川</a></li>
+          <li class="relatedlinks__item"><a href="https://shibuya-beam.com/" class="relatedlinks__link" target="_blank">渋谷BEAM</a></li>
+          <li class="relatedlinks__item"><a href="https://www.glassarea.com/" class="relatedlinks__link" target="_blank">グラッセリア青山</a></li>
+          <li class="relatedlinks__item"><a href="https://www.market-square.jp/kawasaki/" class="relatedlinks__link" target="_blank">マーケットスクエア<br>川崎イースト</a></li>
+        </ul>
+      </dd>
+            <dt class="relatedlinks__def-dt">関西圏</dt>
+      <dd class="relatedlinks__def-dd">
+        <ul class="relatedlinks__list">
+          <li class="relatedlinks__item"><a href="https://qs-mall.jp/abeno/" class="relatedlinks__link" target="_blank">あべのキューズモール</a></li>
+          <li class="relatedlinks__item"><a href="https://qs-mall.jp/amagasaki/" class="relatedlinks__link" target="_blank">あまがさきキューズ<br>モール</a></li>
+          <li class="relatedlinks__item"><a href="https://qs-mall.jp/minoh/" class="relatedlinks__link" target="_blank">みのおキューズモール</a></li>
+          <li class="relatedlinks__item"><a href="https://qs-mall.jp/morinomiya/" class="relatedlinks__link" target="_blank">もりのみやキューズ<br>モールBASE</a></li>
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/shinnagata/" class="relatedlinks__link" target="_blank">東急プラザ新長田</a></li>
+          <li class="relatedlinks__item"><a href="https://www.q-plaza.jp/shinsaibashi/" class="relatedlinks__link" target="_blank">キュープラザ心斎橋</a></li>
+          <li class="relatedlinks__item"><a href="https://www.ekimo.jp/tennoji/" class="relatedlinks__link" target="_blank">ekimo天王寺</a></li>
+          <li class="relatedlinks__item"><a href="https://www.ekimo.jp/namba/" class="relatedlinks__link" target="_blank">ekimoなんば</a></li>
+          <li class="relatedlinks__item"><a href="https://www.ekimo.jp/umeda/" class="relatedlinks__link" target="_blank">ekimo梅田</a></li>
+        </ul>
+      </dd>
+            <dt class="relatedlinks__def-dt">北海道</dt>
+      <dd class="relatedlinks__def-dd">
+        <ul class="relatedlinks__list">
+          <li class="relatedlinks__item"><a href="https://cocono-susukino.jp/" class="relatedlinks__link" target="_blank">COCONO SUSUKINO</a></li>
+        </ul>
+      </dd>
+            <dt class="relatedlinks__def-dt">中京圏</dt>
+      <dd class="relatedlinks__def-dd">
+        <ul class="relatedlinks__list">
+          <li class="relatedlinks__item"><a href="https://sasashima.market-square.jp/" class="relatedlinks__link" target="_blank">マーケットスクエア<br>ささしま</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </div>
+</div>					<div class="sns-link _sp-only">
+<ul class="sns-links">
+<li>follow me!</li>
+<li><a href="https://www.instagram.com/omokado.harakado_official/#" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-instagram-bk.svg" alt="Instagram" loading="lazy" width="40"></a></li>
+              <li><a href="https://x.com/harakado_" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-x.svg" alt="X" loading="lazy"></a></li>
+<li><a href="https://www.tiktok.com/@harakado_omokado?_t=8okZuCLG5Te&_r=1" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-tiktok.svg" alt="TikTok" loading="lazy"></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</header>
+
+      <main class="g-body">
+
+        <div class="main-visual">
+          <div class="swiper main-slider js-main-slider">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <a href="https://realdgame.jp/s/shibuyanazo/" target="_blank"><img src="/harakado/theme/hrkd/files/topvisual/ID00000044-20251226_145625-img.jpg" alt="渋谷謎解き街歩き"></a>
+              </div>
+              <div class="swiper-slide">
+                <a href="https://www.tokyu-plaza.com/harakado/information/detail/78" target=""><img src="/harakado/theme/hrkd/files/topvisual/ID00000063-20261021_113356-img.jpg" alt="Viewing This Website in Other Languages"></a>
+              </div>
+            </div>
+            <div class="main-swiper-button-prev main-swiper-button"></div>
+            <div class="main-swiper-button-next main-swiper-button"></div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+<!-- crosslanguage:delete -->
+
+      <!-- /crosslanguage:delete -->
+
+        <section class="section-container search-section">
+          <div class="adjust-width section-inner">
+
+            
+            
+            <div class="recommend-keywords">
+              <p class="heading"><span>今の気分から探す</span></p>
+              <ul>
+                <li><a href="/harakado/keyword/search/134">#ギフト＆プチギフト</a></li>
+                <li><a href="/harakado/keyword/search/157">#毎日がんばる自分に</a></li>
+                <li><a href="/harakado/keyword/search/116">#おすすめメニュー</a></li>
+                <li><a href="/harakado/keyword/search/111">#期間限定</a></li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="section-container open-renewal">
+          <div class="adjust-width">
+            <h2 class="section-title">
+              <span class="en ff-en">OPEN/RENEWAL</span>
+              <span class="jp -renew">新店・リニューアル</span>
+            </h2>
+
+            <div class="l-content-slider swiper js-content-slider">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item open-renewal-item -renewal">
+                  <a href="/harakado/shop/detail/010500001?tenant_cd=010500001">
+                    <div class="type ff-en">RENEWAL</div>
+                    <div class="image"><img src="/harakado/theme/hrkd/files/shop/ID10500001-20241120_122923-logo.png" alt="" loading="lazy"></div>
+                    <div class="content">
+                      <div class="info">
+                        <p class="floor">1F</p>
+                      </div>
+
+                      <!-- crosslanguage:delete -->
+                      <p class="title">HealthyTOKYO CBD SHOP & LABO</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="title cl-notranslate">HealthyTOKYO CBD SHOP & LABO</p> /crosslanguage:show -->
+
+                      <div class="info">
+                        <p class="category">健康食品・サプリ</p>
+                                          <p class="open">10/19オープン</p>
+                                          </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item open-renewal-item -open">
+                  <a href="/harakado/shop/detail/021800002?tenant_cd=021800002">
+                    <div class="type ff-en">OPEN</div>
+                    <div class="image"><img src="/harakado/theme/hrkd/files/shop/ID21800002-20261001_093016-logo.jpg" alt="" loading="lazy"></div>
+                    <div class="content">
+                      <div class="info">
+                        <p class="floor">2F</p>
+                      </div>
+
+                      <!-- crosslanguage:delete -->
+                      <p class="title">EAGG</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="title cl-notranslate">EAGG</p> /crosslanguage:show -->
+
+                      <div class="info">
+                        <p class="category">フレグランス</p>
+                                          <p class="open">10/01オープン</p>
+                                          </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item open-renewal-item -open">
+                  <a href="/harakado/shop/detail/030600001?tenant_cd=030600001">
+                    <div class="type ff-en">OPEN</div>
+                    <div class="image"><img src="/harakado/theme/hrkd/files/shop/ID30600001-20261005_115830-logo.png" alt="" loading="lazy"></div>
+                    <div class="content">
+                      <div class="info">
+                        <p class="floor">3F</p>
+                      </div>
+
+                      <!-- crosslanguage:delete -->
+                      <p class="title">HARAJUKU LAB</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="title cl-notranslate">HARAJUKU LAB</p> /crosslanguage:show -->
+
+                      <div class="info">
+                        <p class="category">コワーキングスペース</p>
+                                          <p class="open">10/05オープン</p>
+                                          </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+
+            <p class="bottom-button"><a class="link-button" href="/harakado/shop/open"><span>すべて見る</span></a></p>
+          </div>
+        </section>
+
+
+
+
+        <section class="section-container shop-section">
+          <div class="adjust-width">
+            <h2 class="section-title">
+              <span class="en ff-en">SHOP</span>
+              <span class="jp -shop">ショップニュース</span>
+            </h2>
+            <h3 class="section-sub-heading"><span class="-hr_border">新着</span><a href="/harakado/shopnews/" class="link-button -more"><span>もっと見る</span></a></h3>
+            <div class="l-content-slider swiper js-content-slider js-fillter">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item -new">
+                  <a href="/harakado/shopnews/detail/398?tenant_cd=990700001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shop/20240531shop_sc_shop_logo_22712_logo.jpgh.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">定休日のお知らせ</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">PEEK-A-BOO</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">PEEK-A-BOO</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item -new">
+                  <a href="/harakado/shopnews/detail/395?tenant_cd=040200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shop/ID40200002-20250710_121823-logo.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">店舗短縮営業日のお知らせ</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">D'PARTMENT</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">D'PARTMENT</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item -new">
+                  <a href="/harakado/shopnews/detail/394?tenant_cd=010400001">
+                    <div class="image">
+                      <img class="ofi -contain" src="https://cdn.shopify.com/s/files/1/0524/5412/9823/files/pop20261029.jpg?v=1793025641" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">11/1(日)～11/15(日) ハラカド3F「ヒトツブカンロ POPUPストア」開催</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">ヒトツブカンロ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">Hitotubukanro</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item -new">
+                  <a href="/harakado/shopnews/detail/396?tenant_cd=040200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000396-20261103_174017-img.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【11月11日店頭販売開始】ATEEZ〈MIIMCA x TELECA COLLECTION CARD〉発売決定!!</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">D'PARTMENT</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">D'PARTMENT</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item -new">
+                  <a href="/harakado/shopnews/detail/393?tenant_cd=020200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000393-20261028_174952-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【BUENA VISTA】 2026秋冬コレクション｜キーヴィジュアル公開！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">BUENA VISTA</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">BUENA VISTA</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item -new">
+                  <a href="/harakado/shopnews/detail/397?tenant_cd=040200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000397-20261103_174744-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">『D'ICON VOLUME N°36 THE 8』店頭販売開始のお知らせ</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">D'PARTMENT</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">D'PARTMENT</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item ">
+                  <a href="/harakado/shopnews/detail/389?tenant_cd=022000001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000389-20261020_184147-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【OWNDAYS】Cosme Lens 新登場!メイクの仕上げは、レンズまで。</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">OWNDAYS</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">OWNDAYS</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item ">
+                  <a href="/harakado/shopnews/detail/390?tenant_cd=990800001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000390-20261020_190328-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">営業日変更のお知らせ</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">CORNER SHOP by CASBA</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">CORNER SHOP by CASBA</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item ">
+                  <a href="/harakado/shopnews/detail/387?tenant_cd=010500001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000387-20261016_152043-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">HealthyTOKYO ハラカド店 リニューアルオープン！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HealthyTOKYO CBD SHOP & LABO</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HealthyTOKYO CBD SHOP & LABO</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item ">
+                  <a href="/harakado/shopnews/detail/385?tenant_cd=010400001">
+                    <div class="image">
+                      <img class="ofi -contain" src="https://cdn.shopify.com/s/files/1/0524/5412/9823/files/gummitzel3_main.jpg?v=1787219659" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">「ヒトツブカンロのグミッツェルマスコット３」新発売</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">ヒトツブカンロ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">Hitotubukanro</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+
+            <h3 class="section-sub-heading"><span class="-hr_border">ファッション・ファッション雑貨</span><a href="/harakado/shopnews/index/11" class="link-button -more"><span>もっと見る</span></a></h3>
+            <div class="l-content-slider swiper js-content-slider js-fillter">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/393?tenant_cd=020200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000393-20261028_174952-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【BUENA VISTA】 2026秋冬コレクション｜キーヴィジュアル公開！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">BUENA VISTA</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">BUENA VISTA</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/390?tenant_cd=990800001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000390-20261020_190328-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">営業日変更のお知らせ</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">CORNER SHOP by CASBA</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">CORNER SHOP by CASBA</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+            <h3 class="section-sub-heading"><span class="-hr_border">雑貨・インテリア</span><a href="/harakado/shopnews/index/13" class="link-button -more"><span>もっと見る</span></a></h3>
+            <div class="l-content-slider swiper js-content-slider js-fillter">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/389?tenant_cd=022000001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000389-20261020_184147-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【OWNDAYS】Cosme Lens 新登場!メイクの仕上げは、レンズまで。</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">OWNDAYS</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">OWNDAYS</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/307?tenant_cd=022000001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000307-20260520_191953-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【OWNDAYS|オンデーズ】スペイン バルセロナ発のアイウェアブランド「MELLER(メラー)」エッジの 効いたデザイン x </p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">OWNDAYS</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">OWNDAYS</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+            <h3 class="section-sub-heading"><span class="-hr_border">レストラン・カフェ</span><a href="/harakado/shopnews/index/14" class="link-button -more"><span>もっと見る</span></a></h3>
+            <div class="l-content-slider swiper js-content-slider js-fillter">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/354?tenant_cd=030128001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/shopnews-20260811_221027.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【8月10日～】新作「静岡紅ほっぺ こぼれるクリームドレス」が登場！夏のかき氷3種をご紹介！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HOW’ｚ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HOW'z</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/337?tenant_cd=030128001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/shopnews-20260627_220520.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【リニューアル】HOW’zランチ定食が新登場！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HOW’ｚ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HOW'z</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/335?tenant_cd=030128001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000335-20260627_220149-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【新商品】氷屋きみこ × HOW’z コラボレーションかき氷</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HOW’ｚ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HOW'z</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/294?tenant_cd=030128001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shop/ID30128001-20250620_213649-logo.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【新商品】暮らしにそっと寄り添うHOW'z雑貨</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HOW’ｚ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HOW'z</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/234?tenant_cd=030128001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000234-20260123_183500-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">KISS,TOKYO®×coneri クラフトパイ缶がHOW’zに登場！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HOW’ｚ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HOW'z</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/233?tenant_cd=030128001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000233-20260123_182423-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">みじかめこねり（西尾の抹茶）販売開始！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HOW’ｚ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HOW'z</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/215?tenant_cd=030128001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000215-20251219_015602-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【NEW START】石川県能登産 和栗パフェ新発売！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HOW’ｚ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HOW'z</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/185?tenant_cd=030128001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000185-20251017_215720-img.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【NEW START】静岡県産朝比奈抹茶のパフェ新発売！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HOW’ｚ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HOW'z</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/101?tenant_cd=030128001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000101-20250318_154505-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【数量限定】KISS,TOKYO®×coneri クラフトパイ缶がHOW'zに登場！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HOW’ｚ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HOW'z</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/86?tenant_cd=030128001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shop/ID30128001-20250620_213649-logo.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">「『渋谷のラジオ』〜渋谷商店部　お店に行こう！外苑エリア〜」にてHOW'zメンバーが出演しました！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HOW’ｚ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HOW'z</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+            <h3 class="section-sub-heading"><span class="-hr_border">食料品</span><a href="/harakado/shopnews/index/15" class="link-button -more"><span>もっと見る</span></a></h3>
+            <div class="l-content-slider swiper js-content-slider js-fillter">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/394?tenant_cd=010400001">
+                    <div class="image">
+                      <img class="ofi -contain" src="https://cdn.shopify.com/s/files/1/0524/5412/9823/files/pop20261029.jpg?v=1793025641" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">11/1(日)～11/15(日) ハラカド3F「ヒトツブカンロ POPUPストア」開催</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">ヒトツブカンロ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">Hitotubukanro</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/385?tenant_cd=010400001">
+                    <div class="image">
+                      <img class="ofi -contain" src="https://cdn.shopify.com/s/files/1/0524/5412/9823/files/gummitzel3_main.jpg?v=1787219659" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">「ヒトツブカンロのグミッツェルマスコット３」新発売</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">ヒトツブカンロ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">Hitotubukanro</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/97?tenant_cd=010400001">
+                    <div class="image">
+                      <img class="ofi -contain" src="https://prcdn.freetls.fastly.net/release_image/41274/594/41274-594-a9a29e15aed94d3d2659f97801c9ad5d-1920x1821.jpg?width=1950&amp;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&amp;bg-color=fff" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【お知らせ】「ヒトツブカンロ 小さな缶キャンディマスコット」カプセルトイ3/17より新発売</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">ヒトツブカンロ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">Hitotubukanro</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/30?tenant_cd=010400001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000030-20241120_203330-img.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【ご来店予定の方は必ずご確認ください】デジタル整理券のご案内</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">ヒトツブカンロ</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">Hitotubukanro</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+            <h3 class="section-sub-heading"><span class="-hr_border">ビューティー・メディカル</span><a href="/harakado/shopnews/index/16" class="link-button -more"><span>もっと見る</span></a></h3>
+            <div class="l-content-slider swiper js-content-slider js-fillter">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/398?tenant_cd=990700001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shop/20240531shop_sc_shop_logo_22712_logo.jpgh.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">定休日のお知らせ</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">PEEK-A-BOO</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">PEEK-A-BOO</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/376?tenant_cd=021600001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000376-20260920_115342-img.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【YUBUNE】 閉店SALEのご案内</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">YUBUNE</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">YUBUNE</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/347?tenant_cd=021600001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000347-20260713_184045-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【数量限定】眩しく透き通るシトラスの香り「GUNJOU」を今年も限定発売中！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">YUBUNE</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">YUBUNE</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/188?tenant_cd=021600001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000188-20251105_181848-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">世界に一つだけのアートを添えた贈り物を(墨)</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">YUBUNE</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">YUBUNE</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/181?tenant_cd=021600001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000181-20251008_190220-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">日本の奥ゆかしさを表現したPARFUM</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">YUBUNE</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">YUBUNE</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/208?tenant_cd=021600001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000208-20251208_163439-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【YUBUNEオリジナルラッピング】</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">YUBUNE</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">YUBUNE</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+            <h3 class="section-sub-heading"><span class="-hr_border">エンターテイメント</span><a href="/harakado/shopnews/index/17" class="link-button -more"><span>もっと見る</span></a></h3>
+            <div class="l-content-slider swiper js-content-slider js-fillter">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/395?tenant_cd=040200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shop/ID40200002-20250710_121823-logo.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">店舗短縮営業日のお知らせ</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">D'PARTMENT</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">D'PARTMENT</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/396?tenant_cd=040200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000396-20261103_174017-img.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【11月11日店頭販売開始】ATEEZ〈MIIMCA x TELECA COLLECTION CARD〉発売決定!!</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">D'PARTMENT</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">D'PARTMENT</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/397?tenant_cd=040200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000397-20261103_174744-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">『D'ICON VOLUME N°36 THE 8』店頭販売開始のお知らせ</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">D'PARTMENT</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">D'PARTMENT</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/380?tenant_cd=040200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000380-20261013_185003-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">『DICON VOLUME N°35 AND2BLE』店頭販売開始のお知らせ</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">D'PARTMENT</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">D'PARTMENT</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/379?tenant_cd=040200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000379-20261013_184130-img.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【DICON POSTCARD COMPLETE SET】9月2日(水)より発売決定!!</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">D'PARTMENT</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">D'PARTMENT</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/342?tenant_cd=040200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/shopnews-20260709_110223.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">【第2弾】DICON STAMP STICKER発売決定!!</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">D'PARTMENT</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">D'PARTMENT</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/333?tenant_cd=040200002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000333-20260626_114659-img.png" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">DICON ORIGINAL WAPPEN発売決定!!</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">D'PARTMENT</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">D'PARTMENT</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+            <h3 class="section-sub-heading"><span class="-hr_border">生活サービス・その他</span><a href="/harakado/shopnews/index/18" class="link-button -more"><span>もっと見る</span></a></h3>
+            <div class="l-content-slider swiper js-content-slider js-fillter">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/387?tenant_cd=010500001">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000387-20261016_152043-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">HealthyTOKYO ハラカド店 リニューアルオープン！</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">HealthyTOKYO CBD SHOP & LABO</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">HealthyTOKYO CBD SHOP & LABO</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+                <div class="swiper-slide l-content-item">
+                  <a href="/harakado/shopnews/detail/350?tenant_cd=000300002">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/shopnews/ID00000350-20260728_175334-img.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                      <p class="title -limit-2line">富士フイルム直営写真店「WONDER  PHOTO  SHOP(ワンダーフォトショップ)」が、チカイチにオープンしました</p>
+                      <!-- crosslanguage:delete -->
+                      <p class="text -limit-2line">小杉湯原宿</p>
+                      <!-- /crosslanguage:delete -->
+                      <!-- crosslanguage:show <p class="text cl-notranslate">KOSUGIYU HARAJUKU</p> /crosslanguage:show -->
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+            <p class="bottom-button"><a class="link-button" href="/harakado/shopnews/"><span>すべて見る</span></a></p>
+
+          </div>
+        </section>
+
+
+        <section class="section-container event-section">
+          <div class="adjust-width">
+            <h2 class="section-title">
+              <span class="en ff-en">EVENT・POPUP</span>
+              <span class="jp -event">イベント・ポップアップ</span>
+            </h2>
+            <h3 class="section-sub-heading"><span class="-hr_border">本日開催イベント</span></h3>
+            <div class="l-content-slider swiper js-content-slider js-fillter">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item -new">
+                  <a href="/harakado/event/detail/100?publish_begin=26-10-23&publish_end=26-11-08&hold_calendar=26-11-05~26-11-08">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/event/event-20261023_151142.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                                          <p class="event_cat ">グルメ・フード</p>
+                                          <p class="title -limit-2line">魚の新しい楽しみ方を提案するイベント「GYONIPO」（ギョニポ）を開催！</p>
+                      <p class="text"><span>2026年11月5日～11月8日</span></p>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+
+            <h3 class="section-sub-heading"><span class="-hr_border">今後の開催イベント</span></h3>
+            <div class="l-content-slider swiper js-content-slider js-fillter">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide l-content-item -new">
+                  <a href="/harakado/event/detail/100?publish_begin=26-10-23&publish_end=26-11-08&hold_calendar=26-11-05~26-11-08">
+                    <div class="image">
+                      <img class="ofi -contain" src="/harakado/theme/hrkd/files/event/event-20261023_151142.jpg" alt="" loading="lazy">
+                    </div>
+                    <div class="content">
+                                          <p class="event_cat ">グルメ・フード</p>
+                                          <p class="title -limit-2line">魚の新しい楽しみ方を提案するイベント「GYONIPO」（ギョニポ）を開催！</p>
+                      <p class="text"><span>2026年11月5日～11月8日</span></p>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="slide-button-prev"></div>
+              <div class="slide-button-next"></div>
+              <div class="slide-scrollbar"></div>
+            </div>
+
+            <div class="link-button-group bottom-button">
+              <a class="link-button" href="/harakado/event/"><span>すべて見る</span></a>
+              <a class="link-button -calendar" href="/harakado/event/calendar"><span>カレンダーで見る</span></a>
+            </div>
+          </div>
+        </section>
+
+
+
+        <section class="section-container sns-section">
+          <div class="adjust-width">
+            <h2 class="section-title">
+              <span class="en ff-en">SNS</span>
+              <span class="jp -sns">東急プラザ原宿「ハラカド」公式</span>
+            </h2>
+
+            <div class="sns-wrapper">
+              <div class="sns-item -inst">
+                <a href="https://www.instagram.com/omokado.harakado_official/#" class="sns-link" target="_blank" rel="noopener">
+                  <img class="sns-image" src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-instagram.svg" alt="instagram" loading="lazy">
+                </a>
+              </div>
+              <div class="sns-item -x">
+                <a href="https://x.com/harakado_" class="sns-link" target="_blank" rel="noopener">
+                  <img class="sns-image" src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-x-wh.svg" alt="X" loading="lazy">
+                </a>
+              </div>
+              <div class="sns-item -tiktok">
+                <a href="https://www.tiktok.com/@harakado_omokado?_t=8okZuCLG5Te&_r=1" class="sns-link" target="_blank" rel="noopener">
+                  <img class="sns-image" src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-tiktok.svg" alt="TikTok" loading="lazy">
+                </a>
+              </div>
+            </div>
+
+          </div>
+        </section>
+
+        <section class="section-container">
+          <div class="adjust-width">
+            <h2 class="section-title">
+              <span class="en ff-en">INFORMATION</span>
+              <span class="jp -info">施設からのお知らせ</span>
+            </h2>
+
+            <div class="info-list">
+              <div class="info-item">
+                <a class="-new" href="/harakado/information/detail/80">
+                  <p class="date ff-en">2026.10.26</p>
+                  <p class="content">東急プラザアプリ再開に伴うポイント後日付与のご案内</p>
+                </a>
+              </div>
+              <div class="info-item">
+                <a class="" href="/harakado/information/detail/78">
+                  <p class="date ff-en">2026.10.21</p>
+                  <p class="content">Viewing This Website in Other Languages</p>
+                </a>
+              </div>
+              <div class="info-item">
+                <a class="" href="/harakado/information/detail/62">
+                  <p class="date ff-en">2026.05.28</p>
+                  <p class="content">東急プラザアプリ コールセンター 問い合わせ先変更およびプライバシーポリシー改定のお知らせ</p>
+                </a>
+              </div>
+              <div class="info-item">
+                <a class="" href="/harakado/information/detail/58">
+                  <p class="date ff-en">2026.01.22</p>
+                  <p class="content">〈重要〉東急プラザアプリ 会員規約改定のお知らせ</p>
+                </a>
+              </div>
+              <div class="info-item">
+                <a class="" href="/harakado/information/detail/53">
+                  <p class="date ff-en">2025.11.26</p>
+                  <p class="content">〈重要〉東急プラザアプリ プライバシーポリシー改定のお知らせ</p>
+                </a>
+              </div>
+            </div>
+            <p class="bottom-button"><a class="link-button" href="/harakado/information/"><span>すべて見る</span></a></p>
+          </div>
+        </section>
+      </main>
+
+      <footer class="g-footer">
+  <div class="g-footer-inner">
+    <p class="pagetop-fix js-pagetop js-pagetop-fixed ff-en"><span>TOP</span></p>
+    <p class="pagetop js-pagetop ff-en _pc-only"><span>PAGE TOP</span></p>
+    <!-- crosslanguage:delete -->
+    <div class="fixed-search">
+      <gen-search-widget configId="64326a93-458d-4b2c-bb52-45172e1e136c" triggerId="searchWidgetTrigger-fixed"></gen-search-widget>
+      <button type="button" class="fixed-search-input" id="searchWidgetTrigger-fixed">
+        <span class="fixed-search-icon">
+          <img class="fixed-search-image" src="/harakado/theme/hrkd/assets/images/common/icon-aisearch.svg" alt="">
+        </span>
+        <span class="fixed-search-show">Gemini に質問する</span>
+      </button>
+      <button type="button" class="fixed-search-hidden js-aisearch-hidden"><span class="fixed-search-texthidden">閉じる</span></button>
+    </div>
+    <!-- /crosslanguage:delete -->
+    <div class="adjust-width">
+      <div class="footer-banner-container">
+        <div class="swiper footer-banner js-footer-banner">
+          <ul class="swiper-wrapper">
+<li class="swiper-slide"><a href="https://awrd.com/award/accidental_field" target="_blank"><img src="/harakado/theme/hrkd/files/banner/ID00000011-20261001_173822-img.jpg" alt="偶然地帯-この街の余白に何を仕掛ける？AWRD" loading="lazy"></a></li>
+<li class="swiper-slide"><a href="https://www.tokyu-shopstaff.jp/tokyushopstaff/all/v_93_207/MWR_1_10_ARUCD/CLlist.htm" target=""><img src="/harakado/theme/hrkd/files/banner/ID00000010-20260713_170258-img.jpg" alt="求人情報掲載" loading="lazy"></a></li>
+<li class="swiper-slide"><a href="https://city-media-shibuya.tokyu-land.co.jp/media-space/?media-space_type=&media-space_building=harakado" target="_blank"><img src="/harakado/theme/hrkd/files/banner/ID00000006-20241031_111517-img.jpg" alt="東急不動産 スペース&メディア 募集サイト" loading="lazy"></a></li>
+<li class="swiper-slide"><a href="https://tokyu-plaza.com/csr/" target=""><img src="/harakado/theme/hrkd/files/banner/ID00000008-20241113_155216-img.jpg" alt="サステナビリティへの取組みについて" loading="lazy"></a></li>
+          </ul>
+        </div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>
+
+      <div class="footer-links _pc-only">
+        <div class="left-content">
+          <div class="upper-content">
+            <ul>
+              <li><a href="/harakado/">トップページ</a></li>
+              <li><a href="/harakado/shop/search">ショップガイド</a></li>
+              <li><a href="/harakado/shop/floor">フロアガイド</a></li>
+              <li><a href="/harakado/event/">イベント・POPUP</a></li>
+              <li><a href="/harakado/shopnews/">ショップニュース</a></li>
+            </ul>
+            <ul>
+              <li><a href="/harakado/feature/">特典</a></li>
+              <li><a href="/harakado/special/">特集</a></li>
+              <li><a href="/harakado/information/">施設からのお知らせ</a></li>
+              <li><a href="/harakado/facility/">施設・サービス案内</a></li>
+              <li><a href="/harakado/access/">アクセス・駐車場・駐輪場</a></li>
+            </ul>
+            <div>
+                            <ul class="sub">
+                <li><a href="/use/">サイトポリシー</a></li>
+                <li><a href="https://www.tokyuland-scm.co.jp/contact/policy" class="external" target="_blank" rel="noopener">プライバシーポリシー</a></li>
+                <li><a href="/harakado/facility/detail/2">お問い合わせ</a></li>
+                <li><a href="https://www.tokyu-shopstaff.jp/tokyushopstaff/all/v_93_207/MWR_1_10_ARUCD/CLlist.htm" class="external" target="_blank" rel="noopener">スタッフ募集</a></li>
+                <li><a href="https://www.topcard.co.jp/" class="external" target="_blank" rel="noopener">東急カード</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="lower-content">
+            <ul class="sns-links">
+              <li><a href="https://www.instagram.com/omokado.harakado_official/#" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-instagram-bk.svg" alt="Instagram" loading="lazy"></a></li>
+              <li><a href="https://x.com/harakado_" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-x.svg" alt="X" loading="lazy"></a></li>
+              <li><a href="https://www.tiktok.com/@harakado_omokado?_t=8okZuCLG5Te&_r=1" target="_blank" rel="noopener"><img src="https://qs-mall.jp/abeno/theme/abenoqsmall/assets/images/common/icon-tiktok.svg" alt="TikTok" loading="lazy"></a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="right-content">
+          <ul>
+            <li><a href="https://www.tokyu-land.co.jp/shopping-top/itsalwaysyou/" target="_blank" rel="noopener"><img src="/harakado/theme/hrkd/assets/images/common/bnr-footer01.png" alt="" loading="lazy"></a></li>
+            <li><a href="https://www.tokyu-land.co.jp/urban/shopping/" target="_blank" rel="noopener"><img src="/harakado/theme/hrkd/assets/images/common/bnr-footer02.jpg" alt="" loading="lazy"></a></li>
+            <li><a href="https://www.topcard.co.jp/" target="_blank" rel="noopener"><img src="/harakado/theme/hrkd/assets/images/common/bnr-footer03.png" alt="" loading="lazy"></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="other-facility">
+      <ul>
+        <li>
+          <a class="other-facility-link" href="/">
+            <div class="facility-link">東急プラザについて<span class="ff-en">PORTAL SITE</span></div>
+            <div class="logo-link"><img class="footer-logo-image" src="/harakado/theme/hrkd/assets/images/common/logo.svg" alt="東急プラザについて"></div>
+          </a>
+        </li>
+        <li><a class="other-facility-link" href="/shibuya/">渋谷<span class="ff-en">SHIBUYA</span></a></li>
+        <li><a class="other-facility-link" href="/omokado/">表参道「オモカド」<span class="ff-en">OMOTESANDO OMOKADO</span></a></li>
+        <li><a class="other-facility-link" href="/harakado/">原宿「ハラカド」<span class="ff-en">HARAJUKU HARAKADO</span></a></li>
+        <li><a class="other-facility-link" href="/kamata/">蒲田<span class="ff-en">KAMATA</span></a></li>
+        <li><a class="other-facility-link" href="/totsuka/">戸塚<span class="ff-en">TOTSUKA</span></a></li>
+        <li><a class="other-facility-link" href="/shinnagata/">新長田<span class="ff-en">SINNAGATA</span></a></li>
+      </ul>
+    </div>
+  </div>
+<p class="pagetop js-pagetop ff-en _sp-only"><span>PAGE TOP</span></p>
+<div class="footer-sp-links _sp-only">
+<div class="adjust-width">
+      			<ul>
+<li><a href="https://www.tokyu-land.co.jp/shopping-top/itsalwaysyou/" class="external" target="_blank" rel="noopener">It's Always You</a></li>
+        <li><a href="https://www.tokyu-land.co.jp/urban/shopping/" class="external" target="_blank" rel="noopener">東急不動産ショッピングセンターのご紹介</a></li>
+<li><a href="/use/" rel="noopener">サイトポリシー</a></li>
+<li><a href="https://www.tokyuland-scm.co.jp/contact/policy" class="external" target="_blank" rel="noopener">プライバシーポリシー</a></li>
+<li><a href="https://www.tokyu-fudosan-hd.co.jp/" class="external" target="_blank" rel="noopener">東急不動産ホールディングスグループ</a></li>
+<li><a href="https://www.tokyu-land.co.jp/" class="external" target="_blank" rel="noopener">東急不動産株式会社</a></li>
+<li><a href="https://www.tokyuland-scm.co.jp/" class="external" target="_blank" rel="noopener">東急不動産SCマネジメント株式会社</a></li>
+</ul>
+</div>
+</div>
+  <div class="relatedlinks">
+  <div class="adjust-width">
+    <p class="relatedlinks__title">関連施設サイト</p>
+    <dl class="relatedlinks__def">
+            <dt class="relatedlinks__def-dt">首都圏</dt>
+      <dd class="relatedlinks__def-dd">
+        <ul class="relatedlinks__list">
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/shibuya/" class="relatedlinks__link" target="_blank">東急プラザ渋谷</a></li>
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/omokado/" class="relatedlinks__link" target="_blank">東急プラザ表参道<br>「オモカド」</a></li>
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/harakado/" class="relatedlinks__link" target="_blank">東急プラザ原宿<br>「ハラカド」</a></li>
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/kamata/" class="relatedlinks__link" target="_blank">東急プラザ蒲田</a></li>
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/totsuka/" class="relatedlinks__link" target="_blank">東急プラザ戸塚</a></li>
+          <li class="relatedlinks__item"><a href="https://www.odaiba-decks.com/" class="relatedlinks__link" target="_blank">デックス東京ビーチ</a></li>
+          <li class="relatedlinks__item"><a href="https://northport.jp/" class="relatedlinks__link" target="_blank">ノースポート・モール</a></li>
+          <li class="relatedlinks__item"><a href="https://forestgate-daikanyama.jp/" class="relatedlinks__link" target="_blank">Forestgate <br>Daikanyama</a></li>
+          <li class="relatedlinks__item"><a href="https://www.shibuya-sakura-stage.com/" class="relatedlinks__link" target="_blank">Shibuya Sakura <br>Stage</a></li>
+          <li class="relatedlinks__item"><a href="https://www.q-plaza.jp/harajuku/" class="relatedlinks__link" target="_blank">キュープラザ原宿</a></li>
+          <li class="relatedlinks__item"><a href="https://www.q-plaza.jp/ebisu/" class="relatedlinks__link" target="_blank">キュープラザ恵比寿</a></li>
+          <li class="relatedlinks__item"><a href="https://www.q-plaza.jp/ebisuminami/" class="relatedlinks__link" target="_blank">キュープラザ恵比寿南</a></li>
+          <li class="relatedlinks__item"><a href="https://www.q-plaza.jp/futakotamagawa/" class="relatedlinks__link" target="_blank">キュープラザ二子玉川</a></li>
+          <li class="relatedlinks__item"><a href="https://shibuya-beam.com/" class="relatedlinks__link" target="_blank">渋谷BEAM</a></li>
+          <li class="relatedlinks__item"><a href="https://www.glassarea.com/" class="relatedlinks__link" target="_blank">グラッセリア青山</a></li>
+          <li class="relatedlinks__item"><a href="https://www.market-square.jp/kawasaki/" class="relatedlinks__link" target="_blank">マーケットスクエア<br>川崎イースト</a></li>
+        </ul>
+      </dd>
+            <dt class="relatedlinks__def-dt">関西圏</dt>
+      <dd class="relatedlinks__def-dd">
+        <ul class="relatedlinks__list">
+          <li class="relatedlinks__item"><a href="https://qs-mall.jp/abeno/" class="relatedlinks__link" target="_blank">あべのキューズモール</a></li>
+          <li class="relatedlinks__item"><a href="https://qs-mall.jp/amagasaki/" class="relatedlinks__link" target="_blank">あまがさきキューズ<br>モール</a></li>
+          <li class="relatedlinks__item"><a href="https://qs-mall.jp/minoh/" class="relatedlinks__link" target="_blank">みのおキューズモール</a></li>
+          <li class="relatedlinks__item"><a href="https://qs-mall.jp/morinomiya/" class="relatedlinks__link" target="_blank">もりのみやキューズ<br>モールBASE</a></li>
+          <li class="relatedlinks__item"><a href="https://www.tokyu-plaza.com/shinnagata/" class="relatedlinks__link" target="_blank">東急プラザ新長田</a></li>
+          <li class="relatedlinks__item"><a href="https://www.q-plaza.jp/shinsaibashi/" class="relatedlinks__link" target="_blank">キュープラザ心斎橋</a></li>
+          <li class="relatedlinks__item"><a href="https://www.ekimo.jp/tennoji/" class="relatedlinks__link" target="_blank">ekimo天王寺</a></li>
+          <li class="relatedlinks__item"><a href="https://www.ekimo.jp/namba/" class="relatedlinks__link" target="_blank">ekimoなんば</a></li>
+          <li class="relatedlinks__item"><a href="https://www.ekimo.jp/umeda/" class="relatedlinks__link" target="_blank">ekimo梅田</a></li>
+        </ul>
+      </dd>
+            <dt class="relatedlinks__def-dt">北海道</dt>
+      <dd class="relatedlinks__def-dd">
+        <ul class="relatedlinks__list">
+          <li class="relatedlinks__item"><a href="https://cocono-susukino.jp/" class="relatedlinks__link" target="_blank">COCONO SUSUKINO</a></li>
+        </ul>
+      </dd>
+            <dt class="relatedlinks__def-dt">中京圏</dt>
+      <dd class="relatedlinks__def-dd">
+        <ul class="relatedlinks__list">
+          <li class="relatedlinks__item"><a href="https://sasashima.market-square.jp/" class="relatedlinks__link" target="_blank">マーケットスクエア<br>ささしま</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </div>
+</div>	<div class="footer-bottom">
+<div class="inner">
+<ul>
+<li><a href="https://www.tokyu-fudosan-hd.co.jp/" class="external" target="_blank" rel="noopener">東急不動産ホールディングスグループ</a></li>
+<li><a href="https://www.tokyu-land.co.jp/" class="external" target="_blank" rel="noopener">東急不動産株式会社</a></li>
+<li><a href="https://www.tokyuland-scm.co.jp/" class="external" target="_blank" rel="noopener">東急不動産SCマネジメント株式会社</a></li>
+</ul>
+<p class="copyright ff-en">Copyright &copy; TOKYU LAND SC MANAGEMENT.<br class="_sp-only">All Rights Reserved.</p>
+</div>
+</div>
+<div class="sp-fixed-menu _sp-only">
+<ul>
+<li><a class="-shopguide" href="/harakado/shop/search"><span>ショップ</span></a></li>
+<li><a class="-gourmetguide" href="/harakado/shop/gourmet"><span>グルメ</span></a></li>
+<li><a class="-floormap" href="/harakado/shop/floor"><span>フロア<br>マップ</span></a></li>
+<li><a class="-eventcampaign" href="/harakado/event/"><span>イベント・<br>POPUP</span></a></li>
+      <li><a class="-parking" href="/harakado/access/#parking"><span>駐車場</span></a></li>
+<li><a class="-access" href="/harakado/access/"><span>アクセス</span></a></li>
+</ul>
+</div>
+</footer>
+
+    </div>
+    <script type="text/javascript" src="/harakado/theme/hrkd/assets/js/vendor.min.js"></script>
+    <script type="text/javascript" src="/harakado/theme/hrkd/assets/js/common.min.js"></script>
+    <script src="https://platform.twitter.com/widgets.js" integrity="sha384-2tybKFlI8VO9WeecxiJMRsCpfm6xp0mNzAuAFOxtqzenagQgy+bKmARu8EXVJhPu" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/harakado/theme/hrkd/assets/js/home.min.js"></script>
+    <script type="text/javascript" src="/harakado/theme/hrkd/assets/js/index.js?250317"></script>
+    <script type="text/javascript" src="/harakado/theme/hrkd/assets/js/img-fillter.js"></script>
+    <script type="text/javascript" src="/harakado/theme/hrkd/assets/js/found.js"></script>
+  </body>
+
+</html>
+

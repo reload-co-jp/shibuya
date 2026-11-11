@@ -108,5 +108,75 @@
     "url": "https://shibuya.parco.jp/event/detail/?id=9016",
     "reason": "既存記事id125に追記",
     "date": "2026-11-09"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000444.000033690.html",
+    "reason": "終了済み（SIW授賞式、既存id104）",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000001073.000034942.html",
+    "reason": "終了済み（小学校訪問）",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000031.000093457.html",
+    "reason": "区外（横浜）",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000128084.html",
+    "reason": "終了済み",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000077.000048139.html",
+    "reason": "広告展開・イベントなし",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000100.000157137.html",
+    "reason": "区外（港区北青山）",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000741.000002061.html",
+    "reason": "区外（港区南青山）",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000037.000077716.html",
+    "reason": "予約販売のみ",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000034526.html",
+    "reason": "区外（港区南青山）",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000135.000115665.html",
+    "reason": "区外（港区南青山）",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000004168.000003639.html",
+    "reason": "既存記事id8に追記",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000045.000057512.html",
+    "reason": "広告放映・イベントなし",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000004160.000003639.html",
+    "reason": "区外（調布）",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000171605.html",
+    "reason": "店舗の季節メニュー",
+    "date": "2026-11-11"
   }
 ]

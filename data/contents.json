@@ -2804,7 +2804,10 @@
     "place_id": null,
     "source_id": "prtimes-omotesando",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000089.000071730.html",
-    "image_url": "/images/contents/151.jpg"
+    "image_url": "/images/contents/151.jpg",
+    "source_urls": [
+      "https://prtimes.jp/main/html/rd/p/000000093.000071730.html"
+    ]
   },
   {
     "id": 152,
@@ -3900,5 +3903,181 @@
       "https://topmuseum.jp/news/12906/"
     ],
     "image_url": "/images/contents/209.jpg"
+  },
+  {
+    "id": 210,
+    "type": "event",
+    "title": "ソーシャルファーム・ワークショップ2026 第4回 ディスカッション「多様な雇用を会社の力にするには？」",
+    "summary": "12月9日(水)19:00から、渋谷ヒカリエ8/COURTでソーシャルファームを学ぶワークショップの第4回が開かれる。入場無料、事前申込制。",
+    "body": "働くことに困難を抱える人も共に働き、自律的な経営を行う企業「ソーシャルファーム」について学ぶワークショップの第4回が、渋谷ヒカリエ8/COURTで開催される。主催はNPO法人シブヤ大学で、2023年度に始まったシリーズは今年で4年目となる。\n\n## 見どころ\n\n- ゲストは、一般社団法人東京中小企業家同友会の「多様な働き方推進委員会（通称「多様性委員会」）」に参加する2つの企業\n- 中小企業家同友会とは何か、よい会社とは何か、多様な雇用を会社の力にするにはどうすればよいか、などをディスカッションする\n- 登壇者と参加者が対話する時間も予定されている。初めての参加も歓迎としている\n\n## 開催概要\n\n- 日時: 2026年12月9日(水) 19:00-21:00\n- 会場: 渋谷ヒカリエ 8/COURT\n- 料金: 入場無料\n- 定員: 30名\n- 申込: 要事前申込（シブヤ大学の申込ページから）\n\n申込方法などの最新情報は公式サイトで確認してほしい。",
+    "category": "event",
+    "area": "shibuya",
+    "tags": [
+      "free",
+      "night"
+    ],
+    "published_at": "2026-11-21",
+    "start_at": "2026-12-09",
+    "end_at": "2026-12-09",
+    "place_id": "shibuya-hikarie",
+    "source_id": "hikarie",
+    "source_url": "https://www.hikarie.jp/event/detail/?cd=000995",
+    "source_urls": [
+      "https://www.hikarie8.com/court/event/social-firm-workshop-20261209"
+    ],
+    "image_url": "/images/contents/210.jpg"
+  },
+  {
+    "id": 211,
+    "type": "event",
+    "title": "ロエベ×『ナイトメアー・ビフォア・クリスマス』、渋谷PARCOスペイン坂広場に巨大ツリー",
+    "summary": "ロエベとDisney『ティム・バートン ナイトメアー・ビフォア・クリスマス』のコラボを記念し、渋谷PARCOのスペイン坂広場に巨大ツリーが12月25日まで登場している。",
+    "body": "ロエベは今年のホリデーシーズンを、Disney『ティム・バートン ナイトメアー・ビフォア・クリスマス』とのコラボレーションで祝う。渋谷PARCO 1Fのロエベ店舗前、スペイン坂広場には記念の巨大クリスマスツリーが登場している。\n\n## 見どころ\n\n- ツリーは、ロエベのアイコンバッグを呑み込んだ「ジャイアント・スネーク」とツリーが一体化したデザイン\n- コレクションでは、ジャック・スケリントンやサリー、ゼロらをレザーのマルケトリー、刺繍、プリントで描いたレザーグッズ、ウェア、アクセサリーを展開する\n- 本コレクションを含む2027春夏プレコレクションを特集した最新の「ロエベ マガジン」を、ロエベのお客様登録者に先着で配布する（上限に達し次第終了）\n\n## 開催概要\n\n- コレクション発売: 2026年11月12日(木)\n- ツリー展示: 2026年11月14日(土)〜12月25日(金)\n- 会場: 渋谷PARCO 1F ロエベ店舗 / スペイン坂広場\n\n最新情報は渋谷PARCOとロエベの公式サイトで確認してほしい。",
+    "category": "popup",
+    "area": "shibuya",
+    "tags": [
+      "free"
+    ],
+    "published_at": "2026-11-21",
+    "start_at": "2026-11-12",
+    "end_at": "2026-12-25",
+    "place_id": "shibuya-parco",
+    "source_id": "parco",
+    "source_url": "https://shibuya.parco.jp/event/detail/?id=9030",
+    "image_url": "/images/contents/211.jpg"
+  },
+  {
+    "id": 212,
+    "type": "event",
+    "title": "蓮沼執太企画「MUSIC TODAY PARCO」、渋谷PARCO 10Fで暗闇の公演",
+    "summary": "蓮沼執太が企画・構成する「MUSIC TODAY」が11月26日(木)、渋谷PARCO 10F PBOX STNDで開催。会場を暗闇にした状態で公演を行う。入場料3,800円。",
+    "body": "音楽家・蓮沼執太が企画・構成するイベント「MUSIC TODAY」が、渋谷PARCO7周年記念として10F PBOX STNDで開かれる。2023年の東京オペラシティ公演以来3年ぶりの開催で、中止になった回を含めると通算8回目となる。\n\n## 見どころ\n\n- 会場を暗闇にした状態でパフォーマンスを行い、視覚情報を極限まで減らして音そのものに集中する鑑賞体験にする\n- 出演は灰野敬二＋蓮沼執太、COLA REN、雅楽作品「雲起時」（蓮沼執太作曲／音無史哉、下宮弘聖、三浦元則、佐藤愛美）\n- タイトルは、武満徹が音楽監督を務めた現代音楽祭「今日の音楽(MUSIC TODAY)」から引用。同祭は1973年、西武劇場（現・PARCO劇場）のオープニング記念公演として始まった\n- 会場ではテーマに合わせたフードやドリンクも用意される\n\n## 開催概要\n\n- 日時: 2026年11月26日(木) 18:30開場 / 19:00開演\n- 会場: 渋谷PARCO 10F PBOX STND\n- 入場料: ¥3,800\n\nチケットの販売状況など最新情報は渋谷PARCOの公式サイトで確認してほしい。",
+    "category": "concert",
+    "area": "shibuya",
+    "tags": [
+      "night"
+    ],
+    "published_at": "2026-11-21",
+    "start_at": "2026-11-26",
+    "end_at": "2026-11-26",
+    "place_id": "shibuya-parco",
+    "source_id": "parco",
+    "source_url": "https://shibuya.parco.jp/event/detail/?id=9023",
+    "image_url": "/images/contents/212.png"
+  },
+  {
+    "id": 213,
+    "type": "event",
+    "title": "「field 2026」、渋谷PARCO 10Fで音楽・アート・マーケットの1日限りのイベント",
+    "summary": "Rainbow Disco Clubとの共同制作イベント「field 2026」が11月23日(月・祝)、渋谷PARCO 10F PBOX STNDで開催。入場無料、予約不要。",
+    "body": "ダンスミュージックフェスティバル「Rainbow Disco Club」との共同制作プロジェクトによるイベント「field 2026」が、渋谷PARCO 10F「PBOX STND」で開かれる。音楽、アート、パフォーマンス、マーケットがジャンルを越えて交わるイベントで、2024年に始まり今年で3回目となる。\n\n## 見どころ\n\n- LIVE: ARARE、machìna、Soichi Terada、友川カズキ\n- DJ: sabaotoha、Timothy Really Lab.\n- COMEDY: 高木払い／MC: Yukino Nagai\n- SHOP: Junk Miles、本格焼酎処 伊藤商店、myoji vintage、清水屋熊手など9店が出店\n- 新たな試みとしてTシャツプロジェクト「field FRIEND」が始動し、Tシャツをオンラインと会場で数量限定販売する\n- 会場ビジュアルはREALROCKDESIGNが担当する\n\n## 開催概要\n\n- 日程: 2026年11月23日\n- 会場: 渋谷PARCO 10F PBOX STND\n- 入場料: 無料（事前予約・入場券は不要。混雑状況により案内方法が変わる場合あり）\n\n開催時間は公式ページに記載がないため、最新情報は渋谷PARCOの公式サイトで確認してほしい。",
+    "category": "festival",
+    "area": "shibuya",
+    "tags": [
+      "free"
+    ],
+    "published_at": "2026-11-21",
+    "start_at": "2026-11-23",
+    "end_at": "2026-11-23",
+    "place_id": "shibuya-parco",
+    "source_id": "parco",
+    "source_url": "https://shibuya.parco.jp/event/detail/?id=9022",
+    "image_url": "/images/contents/213.jpg"
+  },
+  {
+    "id": 214,
+    "type": "event",
+    "title": "「REBEL RAMEN sponsored by BYREDO」、渋谷PARCOで1日限定開催",
+    "summary": "パリで開催された「REBEL RAMEN sponsored by BYREDO」が11月27日(金)、渋谷PARCO 10F PBOX STNDで1日限定開催。ラーメン各1,600円、夜はDJタイム。",
+    "body": "今夏のパリファッションウィーク中に1日限定で開かれた「REBEL RAMEN sponsored by BYREDO」が、渋谷PARCO 10F PBOX STNDで開催される。\n\n## 見どころ\n\n- パリ開催時と同じく「JUNK」と「PURE」の2種類のラーメンを提供する（各¥1,600）\n- ラーメンの提供は12:00から、ラストオーダーは20:00\n- 17:00からはDJタイム。田中 愛一朗 Cesar（17:00〜18:30）、SAYO（18:30〜19:30）、NARI(CYK)（19:30〜20:30）、KENTACATS（20:30〜21:30）、MARS 89（21:30〜23:00）が出演する\n\n## 開催概要\n\n- 日時: 2026年11月27日 12:00〜23:00（20:00ラストオーダー）\n- 会場: 渋谷PARCO 10F PBOX STND\n- 料金: JUNK / PURE 各¥1,600\n\n最新情報は渋谷PARCOの公式サイトで確認してほしい。",
+    "category": "event",
+    "area": "shibuya",
+    "tags": [
+      "night"
+    ],
+    "published_at": "2026-11-21",
+    "start_at": "2026-11-27",
+    "end_at": "2026-11-27",
+    "place_id": "shibuya-parco",
+    "source_id": "parco",
+    "source_url": "https://shibuya.parco.jp/event/detail/?id=9024",
+    "image_url": "/images/contents/214.jpg"
+  },
+  {
+    "id": 215,
+    "type": "event",
+    "title": "YOSHIROTTEN作品集「Radial Graphics Bio」刊行記念トーク＆DJイベント、渋谷PARCOで",
+    "summary": "YOSHIROTTENの初の包括的作品集「Radial Graphics Bio」の刊行を記念したトーク＆DJイベントが11月28日(土)、渋谷PARCO 10F PBOX STNDで開かれる。",
+    "body": "グラフィックを起点に、映像、空間、インスタレーションへと表現の領域を広げてきたYOSHIROTTEN。その10年以上にわたる創作を一冊にまとめた初の包括的作品集「Radial Graphics Bio」の刊行を記念したイベントが、渋谷PARCOで開かれる。\n\n## 見どころ\n\n- 作品集の刊行を記念し、トークとDJイベントを展開する\n- 会場は渋谷の街を見下ろす10Fのイベントスペース「PBOX STND」\n\n## 開催概要\n\n- 日程: 2026年11月28日(土)\n- 会場: 渋谷PARCO 10F PBOX STND\n\n時間や料金、出演者は公式ページに記載がないため、最新情報は渋谷PARCOとYOSHIROTTENの公式サイトで確認してほしい。",
+    "category": "event",
+    "area": "shibuya",
+    "tags": [],
+    "published_at": "2026-11-21",
+    "start_at": "2026-11-28",
+    "end_at": "2026-11-28",
+    "place_id": "shibuya-parco",
+    "source_id": "parco",
+    "source_url": "https://shibuya.parco.jp/event/detail/?id=9025",
+    "image_url": "/images/contents/215.jpg"
+  },
+  {
+    "id": 216,
+    "type": "event",
+    "title": "SUBU 10周年POPUP、ZEROBASE渋谷にPhotomaticのコラボフォトブース",
+    "summary": "冬のサンダルブランドSUBUの10周年POPUPツアー東京会場（ZEROBASE渋谷）に、11月21日(土)〜12月27日(日)、Photomaticのコラボフレームで撮れるフォトブースが設置される。",
+    "body": "冬のサンダルブランド「SUBU（スブ）」の誕生10周年を記念した全国POPUPツアーに合わせ、セルフフォトブランド「Photomatic」が初コラボのフォトブースを設置する。東京会場はZEROBASE渋谷。\n\n## 見どころ\n\n- SUBUの世界観を落とし込んだ限定コラボフレーム全3種で撮影できる\n- 利用できるのは、会場で商品を購入した客のみ（レジで専用チケットを渡す）\n- SUBUは2016年にデザイナーの府川俊彦が設立した東京発のブランド\n\n## 開催概要（東京会場）\n\n- 期間: 2026年11月21日(土)〜12月27日(日)\n- 時間: 11:00-20:00\n- 会場: ZEROBASE渋谷（東京都渋谷区道玄坂2-5-8）\n- 大阪会場（グラングリーン大阪）は12月4日(金)から\n\n最新情報はSUBU 10周年イベント特設サイトで確認してほしい。",
+    "category": "popup",
+    "area": "shibuya",
+    "tags": [],
+    "published_at": "2026-11-21",
+    "start_at": "2026-11-21",
+    "end_at": "2026-12-27",
+    "place_id": null,
+    "source_id": "prtimes",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000239.000132579.html",
+    "source_urls": [
+      "https://subu2016-10th.com/"
+    ],
+    "image_url": "/images/contents/216.jpg"
+  },
+  {
+    "id": 217,
+    "type": "event",
+    "title": "パワーパフ ガールズのPOPUP「ガールズの休日」、ラフォーレ原宿で12月4日から",
+    "summary": "「The Powerpuff Girls POPUP STORE「ガールズの休日」」が12月4日(金)〜25日(金)、ラフォーレ原宿5F メイクザステージで開かれる。初日から3日間は整理券制。",
+    "body": "オリジナルブランド「Flapper」を運営するアディクトが手がけるパワーパフ ガールズのPOPUP STORE「ガールズの休日」が、ラフォーレ原宿5Fのメイクザステージに出店する。年内最後の出店となる。\n\n## 見どころ\n\n- フェイストートバッグやキラキラポーチなどのラフォーレ原宿先行商品に加え、クリスマスに合わせて白をテーマにした限定商品も登場する\n- 前髪クリップやブラインドチャームなど「ガールズの休日」限定商品も並ぶ。期間中に新商品も追加予定\n- 購入金額に応じたノベルティあり（3,300円（税込）以上でハート型缶バッチ、6,600円（税込）以上でオリジナルポーチなど）\n\n## 開催概要\n\n- 期間: 2026年12月4日(金)〜12月25日(金)\n- 時間: 11:00〜20:00\n- 会場: ラフォーレ原宿 5F メイクザステージ（渋谷区神宮前1-11-6）\n- 整理券: 12月4日(金)〜6日(日)は事前申し込み・先着制の整理券で入場を制限する。その他の日も混雑時は入店規制あり\n\n整理券の申込方法など最新情報はPOPUP特設サイトで確認してほしい。",
+    "category": "popup",
+    "area": "harajuku",
+    "tags": [],
+    "published_at": "2026-11-21",
+    "start_at": "2026-12-04",
+    "end_at": "2026-12-25",
+    "place_id": null,
+    "source_id": "prtimes-harajuku",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000017.000160632.html",
+    "source_urls": [
+      "https://ppg-girlsholiday.musubiweb.com"
+    ],
+    "image_url": "/images/contents/217.jpg"
+  },
+  {
+    "id": 218,
+    "type": "event",
+    "title": "タブレット純、アルバム発売記念ライブを恵比寿ザ・ガーデンホールで2027年2月5日に開催",
+    "summary": "タブレット純のアルバム発売記念ライブ「タブレット純 大いに歌う 2027」が2027年2月5日(金)、恵比寿ザ・ガーデンホールで開かれる。全席指定10,000円（税込、CD付き）。",
+    "body": "「ムード歌謡の貴公子」と呼ばれる歌手・タブレット純が、2027年2月3日(水)に発売するカバーアルバム「タブレット純 大いに歌う～フォークへの誘い」の発売を記念したライブを、恵比寿ザ・ガーデンホールで開く。\n\n## 見どころ\n\n- アルバムには小椋佳の提供による新曲「恋の誘い」、加藤登紀子の提供曲「母よ」と、本人が選んだ1970〜80年代のフォーク＆ニューミュージックのカバーなど全12曲を収録予定\n- ライブの出演はタブレット純、西寄ひがし（MC）、北園優（ピアノ）、石井夕紀（ヴァイオリン）、サリー久保田（ベース）\n\n## 開催概要\n\n- 日時: 2027年2月5日(金) 16:00開場 / 17:00開演\n- 会場: 恵比寿 ザ・ガーデンホール\n- 料金: 全席指定 ¥10,000（税込、CD付き）\n- 先行: 1次 11/24(火)12:00〜11/30(月)23:59、2次 12/1(火)12:00〜12/6(日)23:59（いずれも抽選・WEB受付のみ）\n- 一般発売: 12/12(土)10:00〜\n\nチケットの最新情報は主催者のサイトで確認してほしい。",
+    "category": "concert",
+    "area": "ebisu",
+    "tags": [],
+    "published_at": "2026-11-21",
+    "start_at": "2027-02-05",
+    "end_at": "2027-02-05",
+    "place_id": "ebisu-garden-place",
+    "source_id": "prtimes-ebisu",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000005211.000019470.html",
+    "source_urls": [
+      "https://www.red-hot.ne.jp/play/detail.php?pid=py28961"
+    ],
+    "image_url": "/images/contents/218.jpg"
   }
 ]

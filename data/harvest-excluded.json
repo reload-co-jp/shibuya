@@ -323,5 +323,20 @@
     "url": "https://gardenplace.jp/event/detail/1111",
     "reason": "通常の映画公開（上映館告知のみ）",
     "date": "2026-11-20"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000001796.000006302.html",
+    "reason": "店舗入会キャンペーンのみ",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000222.000021425.html",
+    "reason": "イベント・来街者向け情報なし",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000000771.000002883.html",
+    "reason": "広告掲出のみ",
+    "date": "2026-11-21"
   }
 ]

@@ -1077,7 +1077,7 @@
     "type": "event",
     "title": "HILLS APP ダウンロードキャンペーン",
     "summary": "ヒルズアプリの会員登録後に初めて買い物をすると、翌日に1,000円クーポンがもらえる。",
-    "body": "期間中にヒルズアプリへ会員登録し、初めてお買上げされた方に、翌日「1,000円クーポン」をプレゼントするキャンペーンです。\n\n期間は9月18日（金）から12月25日（金）までです。\n\n## ポイント\n\n- 対象はアプリ会員登録後、初めて買い物をした方\n- 翌日に1,000円クーポンを付与\n\n表参道ヒルズでのお買い物前にアプリを登録しておくとお得です。",
+    "body": "期間中にヒルズアプリへ会員登録し、初めてお買上げされた方に、翌日「1,000円クーポン」をプレゼントするキャンペーンです。\n\n期間は9月18日（金）から12月25日（金）までです。\n\n## ポイント\n\n- 対象はアプリ会員登録後、初めて買い物をした方\n- 翌日に1,000円クーポンを付与\n\n表参道ヒルズでのお買い物前にアプリを登録しておくとお得です。\n\n## 12月は500円クーポンも\n\n表参道ヒルズでは12月1日(火)〜27日(日)、館内の対象店舗でヒルズアプリをダウンロードし新規会員登録すると、その場で使える500円クーポンがもらえる。1会計につき税込5,000円以上の買い物で利用でき、1,000円クーポンとの併用はできない。一部店舗とB3F スペース オーのPOPUPイベントは対象外。",
     "category": "campaign",
     "area": "omotesando",
     "tags": [],
@@ -1087,7 +1087,10 @@
     "place_id": "omotesando-hills",
     "source_id": "omotesando-hills",
     "source_url": "https://www.omotesandohills.com/events/topic/2026/010655.html",
-    "image_url": "/images/contents/58.jpg"
+    "image_url": "/images/contents/58.jpg",
+    "source_urls": [
+      "https://www.omotesandohills.com/events/event/2026/010766.html"
+    ]
   },
   {
     "id": 59,
@@ -3778,7 +3781,7 @@
     "type": "event",
     "title": "Stray Kids JAPAN 4th Mini Album『SUIATSU』POPUP STORE",
     "summary": "Stray Kidsの日本4thミニアルバム『SUIATSU』のリリースを記念したPOPUP STOREが2026年11月20日〜12月13日、MIYASHITA PARK North 2Fで開催される。限定ワークショップもある。",
-    "body": "Stray Kidsの日本4thミニアルバム『SUIATSU』のリリースを記念したPOPUP STOREが、MIYASHITA PARKにオープンする。\n\n## 見どころ\n\n- アルバムのリリースを記念した期間限定ストア\n- 店舗では限定WORKSHOPも楽しめる\n\n## 開催概要\n\n- 期間：2026年11月20日（金）〜12月13日（日）\n- 時間：11:00〜21:00\n- 会場：MIYASHITA PARK North 2F POPUP区画\n\n入場方法や販売商品などの詳細はStray Kids JAPAN公式サイトで確認してほしい。",
+    "body": "Stray Kidsの日本4thミニアルバム『SUIATSU』のリリースを記念したPOPUP STOREが、MIYASHITA PARKにオープンする。\n\n## 見どころ\n\n- アルバムのリリースを記念した期間限定ストア\n- 店舗では限定WORKSHOPも楽しめる\n\n## 開催概要\n\n- 期間：2026年11月20日（金）〜12月13日（日）\n- 時間：11:00〜21:00\n- 会場：MIYASHITA PARK North 2F POPUP区画\n\n入場方法や販売商品などの詳細はStray Kids JAPAN公式サイトで確認してほしい。\n\n## 11月25日〜29日はフォトスポットも\n\nSpotify×Stray Kidsの「SUIATSU PHOTO SPOTS」が11月25日(水)〜29日(日)、MIYASHITA PARK South 2F・North 2Fで開かれる。メンバーのパネルや実際に着用した衣装の展示を無料で見られる（混雑時は当日整理券制）。SpotifyでStray Kidsのアーティストページをフォローした人を対象に、LINEでの事前抽選によるオリジナルステッカーのプレゼントもある。",
     "category": "popup",
     "area": "shibuya",
     "tags": [
@@ -3791,7 +3794,8 @@
     "source_id": "miyashita-park",
     "source_url": "https://www.miyashita-park.tokyo/schedule/?p=3032",
     "source_urls": [
-      "https://www.straykidsjapan.com/info/archive/?588426"
+      "https://www.straykidsjapan.com/info/archive/?588426",
+      "https://www.miyashita-park.tokyo/schedule/?p=3041"
     ],
     "image_url": "/images/contents/203.jpg"
   },
@@ -4079,5 +4083,195 @@
       "https://www.red-hot.ne.jp/play/detail.php?pid=py28961"
     ],
     "image_url": "/images/contents/218.jpg"
+  },
+  {
+    "id": 219,
+    "type": "event",
+    "title": "d47 MUSEUM「47 FASHION 2027 Wear We Where」、47都道府県の装いを紹介",
+    "summary": "渋谷ヒカリエ8Fのd47 MUSEUMで、47都道府県の衣服や帽子、バッグなどの装いを紹介・販売する企画展「47 FASHION 2027 Wear We Where」が12月4日から2027年2月28日まで開かれる。",
+    "body": "渋谷ヒカリエ8Fのd47 MUSEUMで、第39回企画展「47 FASHION 2027 Wear We Where」が開催される。「ファスト」ではなく「ロングライフ」なファッションをテーマに、47都道府県のその土地らしい装いを紹介する。\n\n## 見どころ\n\n- 各地のつくり手による衣服、帽子、バッグ、アクセサリーなどの装いのアイテムを紹介・販売する\n- 会場では実際に手に取って、身につけるものを選べる\n- 会期中は出展者を招いたトークイベントや上映会、在店販売や受注会などの特集企画を予定している\n\n## 開催概要\n\n- 会期: 2026年12月4日(金)〜2027年2月28日(日)（1月1日(金)、2日(土)は休館）\n- 時間: 12:00〜20:00（最終入館19:30）\n- 会場: d47 MUSEUM（渋谷ヒカリエ8F）\n- 料金: ドネーション形式（会場受付）\n\n特集企画の日程など最新情報はd47 MUSEUMの公式サイトやInstagramで確認してほしい。",
+    "category": "exhibition",
+    "area": "shibuya",
+    "tags": [],
+    "published_at": "2026-11-25",
+    "start_at": "2026-12-04",
+    "end_at": "2027-02-28",
+    "place_id": "shibuya-hikarie",
+    "source_id": "hikarie",
+    "source_url": "https://www.hikarie.jp/event/detail/?cd=001003",
+    "source_urls": [
+      "https://www.hikarie8.com/d47museum/exhibition/47-fashion-2027-wear-we-where"
+    ],
+    "image_url": "/images/contents/219.jpg"
+  },
+  {
+    "id": 220,
+    "type": "event",
+    "title": "望月ミネタロウ展“グラフィズム”、渋谷PARCOのGALLERY X BY PARCOで",
+    "summary": "マンガ家・望月ミネタロウの創作の変遷をたどる「望月ミネタロウ展 “グラフィズム”」が12月4日まで、渋谷PARCO B1F GALLERY X BY PARCOで開催中。入場料1,000円。",
+    "body": "パルコと講談社による新プロジェクト「渋谷スペイン坂編集室」が手がける、マンガ家・望月ミネタロウの展覧会が渋谷PARCOで開かれている。創作の変遷を「グラフィズム（視覚表現）」の観点からたどる。\n\n## 見どころ\n\n- 『バタアシ金魚』『ドラゴンヘッド』『東京怪童』の3作品に焦点を当て、原画を展示する\n- 望月ミネタロウやスケシン、釣部東京がデザインしたTシャツやスウェット、原画ポストカードセットなどのグッズを販売する\n- 入場特典として、キービジュアルとロゴをあしらったクリアファイルバッグを配布する\n- キービジュアルのアートワークはスケシンが担当している\n\n## 開催概要\n\n- 会期: 2026年11月20日〜12月4日\n- 時間: 11:00-21:00（最終日は18:00閉場、入場は閉場の30分前まで）\n- 会場: 渋谷PARCO B1F GALLERY X BY PARCO\n- 入場料: 1,000円（入場特典付き）\n\n最新情報は渋谷PARCOの公式サイトで確認してほしい。",
+    "category": "exhibition",
+    "area": "shibuya",
+    "tags": [
+      "night"
+    ],
+    "published_at": "2026-11-25",
+    "start_at": "2026-11-20",
+    "end_at": "2026-12-04",
+    "place_id": "shibuya-parco",
+    "source_id": "parco",
+    "source_url": "https://shibuya.parco.jp/event/detail/?id=9028",
+    "image_url": "/images/contents/220.jpg"
+  },
+  {
+    "id": 221,
+    "type": "event",
+    "title": "「ふたたびくみたてる 日本の新進作家 vol.23」、東京都写真美術館で開催中",
+    "summary": "AIやCG、コマ撮りアニメーションなどを使う5人の作家を紹介する「ふたたびくみたてる 日本の新進作家 vol.23」が、恵比寿の東京都写真美術館で2027年1月17日まで開かれている。",
+    "body": "東京都写真美術館が2002年から続ける「日本の新進作家」展の第23回が、3F展示室で開かれている。作家たちが実際に存在した記憶や素材、技術を汲み取り、新たなイメージへと組み立てていくプロセスに着目する。\n\n## 見どころ\n\n- 出品作家は市田小百合、苅部太郎、野村在、橋本麦、藤倉麻子の5人\n- AIやCG、コマ撮りアニメーションなど多様な技術・素材を用いた作品を紹介する\n- 市田小百合は、黒板を支持体に校舎の断片を再構成したインスタレーション作品を日本で初めて展示する\n\n## 開催概要\n\n- 会期: 2026年9月30日(水)〜2027年1月17日(日)\n- 休館日: 毎週月曜日（祝休日の場合は開館し翌平日休館）、年末年始（12/28-1/1）\n- 会場: 東京都写真美術館 3F展示室\n- 料金: 一般700円、学生560円、高校生・65歳以上350円（中学生以下などは無料）。1月2日(土)、3日(日)は無料\n- オンラインで日時指定チケットを購入できる\n\n最新情報は東京都写真美術館の公式サイトで確認してほしい。",
+    "category": "exhibition",
+    "area": "ebisu",
+    "tags": [],
+    "published_at": "2026-11-25",
+    "start_at": "2026-09-30",
+    "end_at": "2027-01-17",
+    "place_id": "topmuseum",
+    "source_id": "gardenplace",
+    "source_url": "https://gardenplace.jp/event/detail/1115",
+    "source_urls": [
+      "https://topmuseum.jp/exhibition/5423/"
+    ],
+    "image_url": "/images/contents/221.jpg"
+  },
+  {
+    "id": 222,
+    "type": "event",
+    "title": "MIYASHITA PARKのクリスマスはケアベアとコラボ「COLORFUL CHRISTMAS」",
+    "summary": "MIYASHITA PARKで12月1日から25日まで、ケアベアとタイアップした「COLORFUL CHRISTMAS ～paint your color～」を開催。限定メニュー、POP-UP STORE、グリーティングなどがある。",
+    "body": "MIYASHITA PARKの今年のクリスマスは、CareBears™（ケアベア）とのタイアップ企画「COLORFUL CHRISTMAS ～paint your color～」だ。館内の装飾やフォトスポットのほか、さまざまなコンテンツを用意する。\n\n## 見どころ\n\n- 館内店舗のケアベア限定メニュー（パンとエスプレッソとまちあわせ、MIYASHITA CAFE、TACO BELL、渋谷ワイナリー東京など）。購入者にはオリジナルステッカーを配布\n- 対象店舗で1会計5,000円（税込）以上の買い物をすると、オリジナルクリアポーチがもらえる（なくなり次第終了）\n- South 2F 吹き抜け広場でケアベアのPOP-UP STORE（11:00〜21:00、12/25は20:00まで）\n- グリーティングは12月1日(火)・12日(土)の13:00〜と15:00〜（各15分程度）。当日11:00から整理券を配布する\n- フォトスポットはSouth 2F 歩道橋スペース、North 2F 中央スペースなど\n\n## 開催概要\n\n- 期間: 2026年12月1日(火)〜12月25日(金)\n- 会場: MIYASHITA PARK\n\n内容は変更になる場合があるため、最新情報はMIYASHITA PARKの公式サイトで確認してほしい。",
+    "category": "event",
+    "area": "shibuya",
+    "tags": [
+      "kids"
+    ],
+    "published_at": "2026-11-25",
+    "start_at": "2026-12-01",
+    "end_at": "2026-12-25",
+    "place_id": "miyashita-park",
+    "source_id": "miyashita-park",
+    "source_url": "https://www.miyashita-park.tokyo/schedule/?p=3028",
+    "image_url": "/images/contents/222.jpg"
+  },
+  {
+    "id": 223,
+    "type": "event",
+    "title": "「すごいぬ POP UP STORE」、渋谷モディ1Fで11月30日まで",
+    "summary": "クリエイター「すごく良い」が手がけるキャラクター「すごいぬ」初のPOP UPイベントが、渋谷モディ1Fで11月30日(月)まで開かれている。入場無料・予約不要。",
+    "body": "クリエイター「すごく良い」が手がけるキャラクター「すごいぬ」の、初めてのPOP UPイベントが渋谷モディ1Fで開催中だ。11月19日(木)にオープンした。\n\n## 見どころ\n\n- イベントのために描き下ろしたデザインのオリジナルグッズ（ポーチ、ぬいぐるみ、キーホルダーなど）を販売する\n- すごいぬの日常を立体で再現したミニチュア作品を展示する\n- 1会計につき税込5,000円以上の購入で、作家直筆サインカードの引換券がもらえる\n\n## 開催概要\n\n- 会期: 2026年11月19日(木)〜11月30日(月)\n- 時間: 11:00〜20:00（最終日は18:00まで、最終入場17:30）\n- 会場: 渋谷モディ 1F\n- 入場: 終日フリー入場・予約不要\n\n最新情報は公式サイトで確認してほしい。",
+    "category": "popup",
+    "area": "shibuya",
+    "tags": [
+      "free"
+    ],
+    "published_at": "2026-11-25",
+    "start_at": "2026-11-19",
+    "end_at": "2026-11-30",
+    "place_id": null,
+    "source_id": "prtimes",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000174541.html",
+    "image_url": "/images/contents/223.jpg"
+  },
+  {
+    "id": 224,
+    "type": "event",
+    "title": "パンドラのホリデーイベント「WISH FOR YOU」、原宿駅前で12月8日から",
+    "summary": "ジュエリーブランドのパンドラが12月8日(火)〜14日(月)、JR原宿駅前のヨドバシJ6ビルでホリデーイベント「WISH FOR YOU」を開く。刻印体験やメッセージカードのワークショップがある。",
+    "body": "パンドラは、大切な人への想いを込めて贈る体験ができる期間限定イベント「WISH FOR YOU」を、JR原宿駅前のヨドバシJ6ビルで開催する。「想いをつなぐ贈りもの」がテーマだ。\n\n## 見どころ\n\n- 会場で刻印可能なジュエリーを購入すると、通常2,200円（税込）の刻印サービスを無料で利用できる（購入当日・会場限定）\n- AIを使い、パンドラのジュエリーを身に着けた自分の姿をデジタルで楽しめるカスタマイズ体験\n- ポッドキャストスタジオをイメージしたフォトスポットや、メッセージカードのワークショップもある\n- 会場はリボンやギフトラッピングをモチーフにした装飾で彩られる\n\n## 開催概要\n\n- 期間: 2026年12月8日(火)〜12月14日(月)\n- 時間: 平日12:00〜20:00、土・日・祝11:00〜20:00（予定）\n- 会場: ヨドバシJ6ビル（東京都渋谷区神宮前6-35-6）\n\n最新情報はパンドラの公式サイトで確認してほしい。",
+    "category": "popup",
+    "area": "harajuku",
+    "tags": [
+      "workshop"
+    ],
+    "published_at": "2026-11-25",
+    "start_at": "2026-12-08",
+    "end_at": "2026-12-14",
+    "place_id": null,
+    "source_id": "prtimes-harajuku",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000099.000066920.html",
+    "image_url": "/images/contents/224.jpg"
+  },
+  {
+    "id": 225,
+    "type": "event",
+    "title": "表参道ヒルズがディオールのホリデー仕様に、大階段にツリーとB3Fでポップアップ",
+    "summary": "表参道ヒルズで12月11日(金)〜27日(日)、吹抜け大階段に「ディオール ホリデー ツリー」が登場し、B3Fでポップアップ「ディオール スウィート アトリエ オブ ドリームズ」が開かれる。",
+    "body": "表参道ヒルズが12月11日から、パルファン・クリスチャン・ディオールとのホリデー企画で彩られる。館内の装飾に加え、ポップアップイベントも開催する。\n\n## 見どころ\n\n- 本館の吹抜け大階段に、シュガーパウダーとジンジャーブレッドで彩られた「ディオール ホリデー ツリー」が登場する。メインエントランスにもホリデー装飾を施す\n- 館内4つのスポットを巡ってデジタルカードを集める「ディオール ホリデー ハント」（無料）\n- 本館B3F スペース オーのポップアップ「ディオール スウィート アトリエ オブ ドリームズ」では、お菓子の世界を表現した空間で限定アクティビティやブティック、テイクアウト限定カフェを展開する\n\n## 開催概要\n\n- 期間: 2026年12月11日(金)〜12月27日(日)\n- ポップアップの時間: 11:00〜21:00（最終入場20:30）\n- 会場: 表参道ヒルズ 本館（吹抜け大階段、メインエントランス、B3F スペース オー）\n- 料金: 無料（ポップアップは予約優先制。11月26日(木)から予約受付開始）\n- ポップアップ会場での支払いはキャッシュレス決済のみ\n\n予約方法など最新情報はディオールの公式サイトで確認してほしい。",
+    "category": "popup",
+    "area": "omotesando",
+    "tags": [
+      "free",
+      "night"
+    ],
+    "published_at": "2026-11-25",
+    "start_at": "2026-12-11",
+    "end_at": "2026-12-27",
+    "place_id": "omotesando-hills",
+    "source_id": "prtimes-harajuku",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000041.000072321.html",
+    "source_urls": [
+      "https://www.dior.com/ja_jp/beauty/sweet-atelier-of-dreams-popup.html"
+    ],
+    "image_url": "/images/contents/225.jpg"
+  },
+  {
+    "id": 226,
+    "type": "news",
+    "title": "カシオ初のCASIO WATCH直営店「CASIO STORE HARAJUKU」、キャットストリートに12月4日オープン",
+    "summary": "カシオ計算機が国内初のCASIO WATCH直営店「CASIO STORE HARAJUKU」を、原宿・キャットストリート沿いに2026年12月4日(金)オープンする。",
+    "body": "カシオ計算機は、時計事業の新たな取り組みとして、原宿・キャットストリート沿いに国内初のCASIO WATCH直営店「CASIO STORE HARAJUKU」をオープンする。\n\n## 店舗の特徴\n\n- CASIO WATCHの定番モデルを壁面ディスプレイやテーブルに展示し、気軽に手に取って試着できる\n- 耐衝撃ウオッチ“G-SHOCK”の定番モデルも扱う\n- クリエイターNIGO®が手がけた“G-SHOCK”キャラクターのオリジナルグッズや、ファブリックブランド「GXFAB」の商品も並ぶ\n\n## 店舗概要\n\n- 開店日: 2026年12月4日(金)\n- 所在地: 東京都渋谷区神宮前4丁目26-2（キャットストリート沿い）\n- 営業時間: 11:30～20:00、年中無休（オープン日のみ13:00～20:00）\n- 店舗面積: 78.60㎡\n\n最新情報はカシオの公式サイトで確認してほしい。",
+    "category": "new_opening",
+    "area": "harajuku",
+    "tags": [],
+    "published_at": "2026-11-25",
+    "start_at": null,
+    "end_at": null,
+    "place_id": null,
+    "source_id": "prtimes-harajuku",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000541.000040622.html",
+    "image_url": "/images/contents/226.jpg"
+  },
+  {
+    "id": 227,
+    "type": "news",
+    "title": "渋谷二丁目西地区の再開発、権利変換計画が認可 地上38階・大規模バスターミナルを整備",
+    "summary": "渋谷駅東口側の「渋谷二丁目西地区第一種市街地再開発事業」が権利変換計画の認可を受けた。B街区は地上38階・高さ約192mで、バスターミナルなどを整備し、2035年の竣工を予定している。",
+    "body": "渋谷二丁目西地区市街地再開発組合と東京建物などは、「渋谷二丁目西地区第一種市街地再開発事業」の権利変換計画の認可を受けたと発表した。C街区の共同建て替え事業と合わせた都市再生プロジェクト「Shibuya REGENERATION Project」は、総延床面積約305,800㎡と、渋谷エリアで最大規模の計画である。\n\n## 計画のポイント\n\n- 高速乗合バスや空港連絡バスが発着する5バース（付帯施設を含め約5,000㎡）のバスターミナルを整備する\n- 青山通りを挟む街区を幅の広いデッキでつなぎ、渋谷駅中心地区と青山・表参道エリアを結ぶ歩行者ネットワークを整備する\n- 宮益坂に面したA街区に上空広場、B街区に地上レベルの大規模広場を整備する\n- 国際水準の宿泊施設のほか、C街区には居住施設を整備する\n- A街区のデザインアーキテクトは藤本壮介氏、B街区低層部と街区間デッキは重松健氏が担当する\n\n## 事業概要（A・B街区）\n\n- 所在: 東京都渋谷区渋谷二丁目13番・14番・16番地地内\n- 規模: A街区 地下1階地上5階・約46m（店舗等）、B街区 地下3階地上38階・約192m（事務所・店舗・ホテル・バスターミナル等）\n- 本体工事着工: 2029年（予定）\n- 竣工: 2035年（予定）\n\n詳しくは東京建物の発表で確認してほしい。",
+    "category": "local_news",
+    "area": "shibuya",
+    "tags": [],
+    "published_at": "2026-11-24",
+    "start_at": null,
+    "end_at": null,
+    "place_id": null,
+    "source_id": "prtimes-omotesando",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000633.000052843.html",
+    "image_url": "/images/contents/227.jpg"
+  },
+  {
+    "id": 228,
+    "type": "event",
+    "title": "韓国インディーロックのショーケース「Vision」、恵比寿ザ・ガーデンホールで2027年2月12日",
+    "summary": "韓国インディーロックのショーケースライブ「Vision」の日本公演が2027年2月12日(金)、恵比寿ザ・ガーデンホールで開かれる。Touched、Soran、Lacuna、Confined Whiteが出演する。",
+    "body": "MPMGが主催する韓国インディーロックのショーケースライブシリーズ「Vision」が、タイ、台湾に続いて日本で公演を行う。会場は恵比寿ガーデンプレイス内のザ・ガーデンホール。\n\n## 見どころ\n\n- 出演はTouched、Soran、Lacuna、Confined Whiteの4組\n- シューゲイズのConfined White、多幸感のあるロックサウンドのLacunaなど、多彩な音楽性のバンドが集まる\n- VIPチケットとS席チケットには限定特典グッズが付く\n\n## 開催概要\n\n- 公演日: 2027年2月12日(金)\n- 会場: EBISU GARDEN HALL（恵比寿ザ・ガーデンホール）\n- チケット: VIP ¥14,900（サイン会、ポスター、VIP限定グッズ、基本グッズ付き）、S席 ¥9,900、A席 ¥7,700\n- 販売: mahocastで販売中\n\n開場・開演時間はリリースに記載がないため、最新情報はmahocastの公演ページで確認してほしい。",
+    "category": "concert",
+    "area": "ebisu",
+    "tags": [],
+    "published_at": "2026-11-25",
+    "start_at": "2027-02-12",
+    "end_at": "2027-02-12",
+    "place_id": "ebisu-garden-place",
+    "source_id": "prtimes-ebisu",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000290.000070961.html",
+    "image_url": "/images/contents/228.jpg"
   }
 ]
